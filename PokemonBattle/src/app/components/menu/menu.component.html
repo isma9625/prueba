@@ -1,0 +1,90 @@
+<div class="container-fluid vh-100 overflow-hidden d-flex flex-column px-0" >
+    <!-- Barra superior -->
+    <div class="menu-superior d-flex align-items-center w-100 bgColorBlack p-3 borderYellowBottom" style="height: 70px;">
+        <div class="me-auto ms-2">
+            @if (!isSidebarOpen) {
+                <img src="./img/navBar/menu.png" alt="Abrir menú" width="48px" class="cursor-pointer  sidebar-icon"
+                    (click)="isSidebarOpen = true">
+            } @else {
+                <img src="./img/navBar/closeMenu.png" alt="Cerrar menú" width="48px" class="cursor-pointer  sidebar-icon"
+                    (click)="isSidebarOpen = false">
+            }
+        </div>
+        <div class="flex-grow-1 d-flex justify-content-center">
+            <a routerLink="/presentacion"><img src="img/pokemonLogo.png" alt="Logo Pokémon Battle" width="100px"></a>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+            @if (!isLoggedIn) {
+                <button class="list-group-item bgColorBlack borderYellow rounded">
+                    <a routerLink="registro" class="text-decoration-none textColorWhite">Registro</a>
+                </button>
+                <button class="list-group-item bgColorBlack borderYellow rounded">
+                    <a routerLink="login" class="text-decoration-none textColorWhite">Login</a>
+                </button>
+            } @else {
+                <div class="d-flex align-items-center gap-3">
+                    <span class="fw-bold me-2"> {{ userName }} </span>
+                    <button class="list-group-item bgColorBlack borderYellow rounded">
+                        <a (click)="logout()" class="text-decoration-none textColorWhite">Logout</a>
+                    </button>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!-- Contenedor principal -->
+    <div class="d-flex flex-grow-1 overflow-hidden">
+        <!-- Barra lateral -->
+        <div class="bgColorBlack borderYellowRight d-flex flex-column transition-all"
+            [class.sidebar-expanded]="isSidebarOpen"
+            [class.sidebar-collapsed]="!isSidebarOpen">
+            
+            <ul class="nav nav-pills flex-column mt-3 gap-3">
+                <li class="nav-item">
+                    <a routerLink="home" class="nav-link align-middle px-3 d-flex align-items-center">
+                        <img src="./img/navBar/home.png" alt="Home" class="imgWidth" title="Home">
+                        <span class="ms-2 fs-5">Home</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a routerLink="instrucciones" class="nav-link align-middle px-3 d-flex align-items-center">
+                        <img src="./img/navBar/instrucciones.png" alt="Instrucciones" class="imgWidth" title="Instrucciones">
+                        <span class="ms-2 fs-5">Instrucciones</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a routerLink="cartasExistentes" class="nav-link align-middle px-3 d-flex align-items-center">
+                        <img src="./img/navBar/pokedex.png" alt="Pokedex" class="imgWidth" title="Pokédex">
+                        <span class="ms-2 fs-5">Pokédex del juego</span>
+                    </a>
+                </li>
+                
+                @if (isLoggedIn) {
+                    <li class="nav-item">
+                        <a routerLink="inventario" class="nav-link align-middle px-3 d-flex align-items-center">
+                            <img src="./img/navBar/mochila.png" alt="Inventario" class="imgWidth" title="Inventario">
+                            <span class="ms-2 fs-5">Inventario</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a routerLink="sobres" class="nav-link align-middle px-3 d-flex align-items-center">
+                            <img src="./img/navBar/sobres.png" alt="Abrir sobres" class="imgWidth" title="Abrir Sobres">
+                            <span class="ms-2 fs-5">Abrir Sobres</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a routerLink="barajas" class="nav-link align-middle px-3 d-flex align-items-center">
+                            <img src="./img/navBar/barajas.png" alt="Barajas" class="imgWidth" title="Barajas">
+                            <span class="ms-2 fs-5">Barajas</span>
+                        </a>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <!-- Contenido principal -->
+        <main class="col p-0 min-vh-100 d-flex flex-column overflow-auto" style="height: calc(100vh - 60px);">
+            <router-outlet></router-outlet>
+        </main>
+    </div>
+</div>

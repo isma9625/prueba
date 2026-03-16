@@ -1,0 +1,122 @@
+/* COLORS */
+.bgColorBlack {
+    background-color: #1B1B1B;
+    color: #FDFCFA;
+}
+
+.bgColorWhite {
+    background-color: #FDFCFA;
+    color: #1B1B1B;
+}
+
+.textColorBlack {
+    color: #1B1B1B;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
+}
+
+.textColorWhite {
+    color: #FDFCFA;
+    text-shadow: 3px 3px 9px rgba(0, 0, 0, 1);
+}
+
+.textColorBlue {
+    color: #3C59A5;
+}
+
+.bgColorBlue {
+    background-color: #3C59A5;
+    color: #FDFCFA;
+}
+
+.borderBlue {
+    border: 2px solid #3C59A5;
+}
+
+.textColorYellow {
+    color: #FFCC03;
+}
+
+.bgColorYellow {
+    background-color: #FFCC03;
+}
+
+.borderYellow {
+    border: 2px solid #FFCC03;
+}
+
+.textColorRed {
+    color: #CD0C2B;
+}
+
+.bgColorRed {
+    background-color: #CD0C2B;
+}
+
+/* ESPACIADOS */
+.paddingTop {
+    padding-top: 8rem;
+}
+
+.paddingBottom {
+    padding-bottom: 18rem;
+}
+
+.homeImg {
+    object-fit: cover;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+.btnScale {
+    transition: transform 0.3s ease;
+}
+
+.btnScale:hover {
+    transform: scale(1.05);
+}
+
+/* Tablet horizontal (Bootstrap md: ≥768px y <1200px) */
+@media (max-width: 1199.98px) {
+    .system-battle-img,
+    .system-battle-img-wrapper,
+    .system-battle-text-container {
+        max-width: 350px;
+    }
+}
+
+/* Móvil horizontal (Bootstrap sm: ≥576px y <768px) */
+@media (max-width: 767.98px) {
+    .system-battle-img,
+    .system-battle-img-wrapper,
+    .system-battle-text-container {
+        max-width: 250px;
+    }
+}
+
+/* Móvil vertical (Bootstrap xs: <576px) */
+@media (max-width: 575.98px) {
+    .system-battle-img,
+    .system-battle-img-wrapper,
+    .system-battle-text-container {
+        max-width: 200px;
+    }
+
+    .paddingBottom {
+        padding-bottom: 4rem;
+    }
+
+    .paddingTop {
+        padding-top: 3rem;
+    }
+}
+
+.bgCover {
+    background-image: url('/img/PokemonBanner.png');
+    background-size: cover;
+    background-position: center center;
+}
+
+/* imagen seccion 1 */
+.anchoImagen{
+    max-width: 450px;
+}

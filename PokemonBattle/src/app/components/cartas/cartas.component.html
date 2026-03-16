@@ -1,0 +1,130 @@
+<!-- Carrusel -->
+<div id="carouselAprende" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active">
+            <div class="position-relative  overflow-hidden d-flex align-items-center justify-content-center w-100" style="min-height: 50vh;">
+                <img src="img/fondoAprendeJugar.PNG" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-negative" alt="Fondo 1">
+
+                <div class="container-lg position-relative z-1">
+                    <div class="row align-items-center h-100 px-5">
+                        <div class="col-md-6 text-white text-center">
+                            <img src="img/LogoGenesFormidables.png" alt="Logo" class="img-fluid mb-3">
+                            <h2 class="fw-bold">Explora la expansión de <br> Genes Formidables</h2>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <img src="img/GenesFormidables.png" alt="Imagen instrucciones" class="img-fluid w-100">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item">
+            <div class="position-relative  overflow-hidden d-flex align-items-center justify-content-center w-100" style="min-height: 50vh;">
+                <img src="img/fondoAprendeJugar.PNG" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-negative" alt="Fondo 2">
+            
+                <div class="container-lg position-relative z-1">
+                    <div class="row align-items-center h-100 px-5">
+                    <div class="col-md-6 text-white text-center">
+                        <img src="img/logoLaIslaSingular.png" alt="Logo" class="img-fluid mb-3">
+                        <h2 class="fw-bold">Explora la expansión de la Isla Singular</h2>
+                    </div>
+                        <div class="col-md-6 text-center  mt-3 mb-4 mt-md-0 mb-md-0">
+                        <img src="img/sobreLaIslaSingular.png" alt="Imagen adicional" class="img-fluid w-25">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Controles -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselAprende" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Anterior</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselAprende" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Siguiente</span>
+    </button>
+</div>
+
+
+<section class="d-flex justify-content-center bgColorBlack min-vh-100 py-5">
+    <div class="container">
+        <!-- Barra de búsqueda -->
+        <div class="row justify-content-center mb-4 mx-3">
+            <div class="col-md-8">
+                <div class="search-container position-relative">
+                    <input type="text" class="form-control search-input pe-5" placeholder="Buscar por nombre" (input)="filtrarCartas($event)">
+                    <i class="fas fa-search search-icon position-absolute top-50 end-0 translate-middle-y me-3 text-muted"></i>
+                </div>
+            </div>
+        </div>
+
+        <!-- Filtros -->
+        <ul class="list-group list-group-horizontal flex-wrap justify-content-center gap-2 mb-5">
+            <li class="list-group-item bgColorBlack border-2 borderYellow rounded" role="button" (click)="verTodas()">Ver todas</li>
+
+            <!-- Dropdowns -->
+            <li class="list-group-item bgColorBlack border-2 borderYellow rounded dropdown">
+                <a class="dropdown-toggle text-decoration-none text-white w-100 d-block" href="#" role="button" data-bs-toggle="dropdown">
+                Filtrar por expansión
+                </a>
+                <ul class="dropdown-menu sombraBordes menuPequeño text-center bgColorBlack border-2 rounded mt-2">
+                    @for (exp of expansiones; track exp) {
+                        <li><button class="dropdown-item text-white" (click)="filtrarExpansion(exp)">{{ exp }}</button></li>
+                    }
+                </ul>
+            </li>
+
+            <li class="list-group-item bgColorBlack border-2 borderYellow rounded dropdown">
+                <a class="dropdown-toggle text-decoration-none text-white w-100 d-block" href="#" role="button" data-bs-toggle="dropdown">
+                Filtrar por tipo
+                </a>
+                <ul class="dropdown-menu sombraBordes menuPequeño text-center bgColorBlack border-2 rounded mt-2">
+                    @for (tipo of tipos; track tipo) {
+                        <li><button class="dropdown-item text-white" (click)="filtrarTipo(tipo)">{{ tipo }}</button></li>
+                    }
+                </ul>
+            </li>
+
+            <li class="list-group-item bgColorBlack border-2 borderYellow rounded dropdown">
+                <a class="dropdown-toggle text-decoration-none text-white w-100 d-block" href="#" role="button" data-bs-toggle="dropdown">
+                Filtrar por rareza
+                </a>
+                <ul class="dropdown-menu sombraBordes menuPequeño text-center bgColorBlack border-2 rounded mt-2">
+                    @for (rarezas of rareza; track rarezas) {
+                        <li><button class="dropdown-item text-white" (click)="filtrarRareza(rarezas)">{{ rarezas }}</button></li>
+                    }
+                </ul>
+            </li>
+
+            <li class="list-group-item bgColorBlack border-2 borderYellow rounded" role="button" (click)="filtrarEx()">Pokémon EX</li>
+        </ul>
+
+        <!-- Cartas -->
+        <div class="row gx-3 gy-4 justify-content-center px-3 px-sm-3">
+            @for (carta of cartasFiltradas; track carta.card_id) {
+                <div class="col-4 col-sm-3 col-lg-2-4 text-center">
+                    <img [src]="carta.imgCard" [alt]="carta.name" class="img-fluid" style="max-height: 250px; object-fit: contain;">
+                </div>
+            }
+        </div>
+
+        <!-- Sin resultados -->
+        @if (cartasFiltradas.length === 0 && cartas.length > 0) {
+            <div class="text-center text-white mt-4">
+                <p class="fs-4">No se encontraron cartas con esta búsqueda.</p>
+            </div>
+        }
+    </div>
+    
+    
+
+
+</section>

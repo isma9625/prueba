@@ -1,0 +1,5254 @@
+[
+     {
+          "card_id": "A1 001",
+          "name": "Bulbasaur",
+          "type": "Planta",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Látigo Cepa", "damage": 40 }
+          ],
+          "imgFile": "bulbasaur.png"
+     },
+     {
+          "card_id": "A1 002",
+          "name": "Ivysaur",
+          "type": "Planta",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Hoja Afilada", "damage": 60 }
+          ],
+          "imgFile": "ivysaur.png"
+     },
+     {
+          "card_id": "A1 003",
+          "name": "Venusaur",
+          "type": "Planta",
+          "ps": 160,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 3,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Megaagotar", "damage": 80 }
+          ],
+          "imgFile": "venusaur.png"
+     },
+     {
+          "card_id": "A1 004",
+          "name": "Venusaur ex",
+          "type": "Planta",
+          "ps": 190,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 4,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Hoja Afilada", "damage": 60 },
+               { "name": "Floración Gigante", "damage": 100 }
+          ],
+          "imgFile": "venusaurEx.png"
+     },
+     {
+          "card_id": "A1 005",
+          "name": "Caterpie",
+          "type": "Planta",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Encontrar un Amigo" }
+          ],
+          "imgFile": "caterpie.png"
+     },
+     {
+          "card_id": "A1 006",
+          "name": "Metapod",
+          "type": "Planta",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Picadura", "damage": 30 }
+          ],
+          "imgFile": "metapod.png"
+     },
+     {
+          "card_id": "A1 007",
+          "name": "Butterfree",
+          "type": "Planta",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",
+          "rarity": 3,
+          "weakness": "Fuego",
+          "skill": [
+               { "name": "Polvo Sanador", "description": "Una vez durante tu turno, puedes curar 20 puntos de daño a cada uno de tus Pokemón." }
+          ],
+          "attacks": [
+               { "name": "Tornado", "damage": 60 }
+          ],
+          "imgFile": "butterfree.png"
+     },
+     {
+          "card_id": "A1 008",
+          "name": "Weedle",
+          "type": "Planta",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Aguijonazo", "damage": 20 }
+          ],
+          "imgFile": "weedle.png"
+     },
+     {
+          "card_id": "A1 009",
+          "name": "Kakuna",
+          "type": "Planta",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Picadura", "damage": 30 }
+          ],
+          "imgFile": "kakuna.png"
+     },
+     {
+          "card_id": "A1 010",
+          "name": "Beedrill",
+          "type": "Planta",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 3,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Aguijón Afilado", "damage": 70 }
+          ],
+          "imgFile": "beedrill.png"
+     },
+     {
+          "card_id": "A1 011",
+          "name": "Oddish",
+          "type": "Planta",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Apisonar", "damage": 10 }
+          ],
+          "imgFile": "oddish.png"
+     },
+     {
+          "card_id": "A1 012",
+          "name": "Gloom",
+          "type": "Planta",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Babeo", "damage": 40 }
+          ],
+          "imgFile": "gloom.png"
+     },
+     {
+          "card_id": "A1 013",
+          "name": "Vileplume",
+          "type": "Planta",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 3,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Aroma relajante", "damage": 80 }
+          ],
+          "imgFile": "vileplume.png"
+     },
+     {
+          "card_id": "A1 014",
+          "name": "Paras",
+          "type": "Planta",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Arañazo", "damage": 30 }
+          ],
+          "imgFile": "paras.png"
+     },
+     {
+          "card_id": "A1 015",
+          "name": "Parasect",
+          "type": "Planta",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Cuchillada", "damage": 80 }
+          ],
+          "imgFile": "parasect.png"
+     },
+     {
+          "card_id": "A1 016",
+          "name": "Venonat",
+          "type": "Planta",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje", "damage": 20 }
+          ],
+          "imgFile": "venonat.png"
+     },
+     {
+          "card_id": "A1 017",
+          "name": "Venomoth",
+          "type": "Planta",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Polvo Veneno", "damage": 30 }
+          ],
+          "imgFile": "venomoth.png"
+     },
+     {
+          "card_id": "A1 018",
+          "name": "Bellsprout",
+          "type": "Planta",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Látigo Cepa", "damage": 20 }
+          ],
+          "imgFile": "bellsprout.png"
+     },
+     {
+          "card_id": "A1 019",
+          "name": "Weepinbell",
+          "type": "Planta",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Hoja Afilada", "damage": 40 }
+          ],
+          "imgFile": "weepinbell.png"
+     },
+     {
+          "card_id": "A1 020",
+          "name": "Victreebel",
+          "type": "Planta",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 3,
+          "weakness": "Fuego",
+          "skill": [
+               { "name": "Trampa Fragancia", "description": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes cambiar 1 de los Pokémon Básicos en Banca de tu rival por su Pokémon Activo." }
+          ],
+          "attacks": [
+               { "name": "Látigo Cepa", "damage": 60 }
+          ],
+          "imgFile": "victreebel.png"
+     },
+     {
+          "card_id": "A1 021",
+          "name": "Exeggcute",
+          "type": "Planta",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Bomba Germen", "damage": 20 }
+          ],
+          "imgFile": "exeggcute.png"
+     },
+     {
+          "card_id": "A1 022",
+          "name": "Exeggutor",
+          "type": "Planta",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 3,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Pisotón", "damage": 30 }
+          ],
+          "imgFile": "exeggutor.png"
+     },
+     {
+          "card_id": "A1 023",
+          "name": "Exeggutor ex",
+          "type": "Planta",
+          "ps": 160,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 4,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Golpe Tropical", "damage": 40 }
+          ],
+          "imgFile": "exeggutorEx.png"
+     },
+     {
+          "card_id": "A1 024",
+          "name": "Tangela",
+          "type": "Planta",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Absorber", "damage": 40 }
+          ],
+          "imgFile": "tangela.png"
+     },
+     {
+          "card_id": "A1 025",
+          "name": "Scyther",
+          "type": "Planta",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Guadaña Afilada", "damage": 30 }
+          ],
+          "imgFile": "scyther.png"
+     },
+     {
+          "card_id": "A1 026",
+          "name": "Pinsir",
+          "type": "Planta",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Cornada Doble", "damage": 50 }
+          ],
+          "imgFile": "pinsir.png"
+     },
+     {
+          "card_id": "A1 027",
+          "name": "Cottonee",
+          "type": "Planta",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Pegarse", "damage": 10 }
+          ],
+          "imgFile": "cottonee.png"
+     },
+     {
+          "card_id": "A1 028",
+          "name": "Whimsicott",
+          "type": "Planta",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje Giro", "damage": 40 }
+          ],
+          "imgFile": "whimsicott.png"
+     },
+     {
+          "card_id": "A1 029",
+          "name": "Petilil",
+          "type": "Planta",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Absorción", "damage": 10 }
+          ],
+          "imgFile": "petilil.png"
+     },
+     {
+          "card_id": "A1 030",
+          "name": "Lilligant",
+          "type": "Planta",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Aprovisionamiento Hoja", "damage": 50 }
+          ],
+          "imgFile": "lilligant.png"
+     },
+     {
+          "card_id": "A1 031",
+          "name": "Skiddo",
+          "type": "Planta",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Ataque sorpresa", "damage": 40 }
+          ],
+          "imgFile": "skiddo.png"
+     },
+     {
+          "card_id": "A1 032",
+          "name": "Gogoat",
+          "type": "Planta",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Hoja Afilada", "damage": 70 }
+          ],
+          "imgFile": "gogoat.png"
+     },
+     {
+          "card_id": "A1 033",
+          "name": "Charmander",
+          "type": "Fuego",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Ascuas", "damage": 30 }
+          ],
+          "imgFile": "charmander.png"
+     },
+     {
+          "card_id": "A1 034",
+          "name": "Charmeleon",
+          "type": "Fuego",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 2,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Garras de fuego", "damage": 60 }
+          ],
+          "imgFile": "charmeleon.png"
+     },
+     {
+          "card_id": "A1 035",
+          "name": "Charizard",
+          "type": "Fuego",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 3,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Giro fuego", "damage": 150 }
+          ],
+          "imgFile": "charizard.png"
+     },
+     {
+          "card_id": "A1 036",
+          "name": "Charizard ex",
+          "type": "Fuego",
+          "ps": 180,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 4,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Cuchillada", "damage": 60 },
+               { "name": "Tormenta Carmesí", "damage": 200 }
+          ],
+          "imgFile": "charizardEx.png"
+     },
+     {
+          "card_id": "A1 037",
+          "name": "Vulpix",
+          "type": "Fuego",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Látigo" }
+          ],
+          "imgFile": "vulpix.png"
+     },
+     {
+          "card_id": "A1 038",
+          "name": "Ninetales",
+          "type": "Fuego",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 2,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Lanzallamas", "damage": 90 }
+          ],
+          "imgFile": "ninetales.png"
+     },
+     {
+          "card_id": "A1 039",
+          "name": "Growlithe",
+          "type": "Fuego",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",
+          "rarity": 1,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Mordisco", "damage": 20 }
+          ],
+          "imgFile": "growlithe.png"
+     },
+     {
+          "card_id": "A1 040",
+          "name": "Arcanine",
+          "type": "Fuego",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",
+          "rarity": 3,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje Ardiente", "damage": 100 }
+          ],
+          "imgFile": "arcanine.png"
+     },
+     {
+          "card_id": "A1 041",
+          "name": "Arcanine Ex",
+          "type": "Fuego",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",
+          "rarity": 4,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Infieno Desatado", "damage": 120 }
+          ],
+          "imgFile": "arcanineEx.png"
+     },
+     {
+          "card_id": "A1 042",
+          "name": "Ponyta",
+          "type": "Fuego",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],
+          "rarity": 1,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Llama", "damage": 20 }
+          ],
+          "imgFile": "ponyta.png"
+     },
+     {
+          "card_id": "A1 043",
+          "name": "Rapidash",
+          "type": "Fuego",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],
+          "rarity": 2,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Crin de Fuego", "damage": 40 }
+          ],
+          "imgFile": "rapidash.png"
+     },
+     {
+          "card_id": "A1 044",
+          "name": "Magmar",
+          "type": "Fuego",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Puño de Magma", "damage": 50 }
+          ],
+          "imgFile": "magmar.png"
+     },
+     {
+          "card_id": "A1 045",
+          "name": "Flareon",
+          "type": "Fuego",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 3,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Lanzallamas", "damage": 110 }
+          ],
+          "imgFile": "flareon.png"
+     },
+     {
+          "card_id": "A1 046",
+          "name": "Moltres",
+          "type": "Fuego",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 3,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Ataque Aéreo", "damage": 130 }
+          ],
+          "imgFile": "moltres.png"
+     },
+     {
+          "card_id": "A1 047",
+          "name": "Moltres ex",
+          "type": "Fuego",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 4,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Danza Infernal" },
+               { "name": "Explosión de Calor", "damage": 70 }
+          ],
+          "imgFile": "moltresEx.png"
+     },
+     {
+          "card_id": "A1 048",
+          "name": "Heatmor",
+          "type": "Fuego",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],
+          "rarity": 1,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Combustión", "damage": 30 }
+          ],
+          "imgFile": "heatmor.png"
+     },
+     {
+          "card_id": "A1 049",
+          "name": "Salandit",
+          "type": "Fuego",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Arañazo", "damage": 20 }
+          ],
+          "imgFile": "salandit.png"
+     },
+     {
+          "card_id": "A1 050",
+          "name": "Salazzle",
+          "type": "Fuego",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Garras de fuego", "damage": 60 }
+          ],
+          "imgFile": "salazzle.png"
+     },
+     {
+          "card_id": "A1 051",
+          "name": "Sizzlipede",
+          "type": "Fuego",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],
+          "rarity": 1,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Roer", "damage": 10 }
+          ],
+          "imgFile": "sizzlipede.png"
+     },
+     {
+          "card_id": "A1 052",
+          "name": "Centiskorch",
+          "type": "Fuego",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 2,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Llamarada", "damage": 130 }
+          ],
+          "imgFile": "centiskorch.png"
+     },
+     {
+          "card_id": "A1 053",
+          "name": "Squirtle",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Pistola Agua", "damage": 20 }
+          ],
+          "imgFile": "squirtle.png"
+     },
+     {
+          "card_id": "A1 054",
+          "name": "Wartortle",
+          "type": "Agua",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Chapoteo Ondulante", "damage": 40 }
+          ],
+          "imgFile": "wartortle.png"
+     },
+     {
+          "card_id": "A1 055",
+          "name": "Blastoise",
+          "type": "Agua",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 3,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Hidrobomba", "damage": 80 }
+          ],
+          "imgFile": "blastoise.png"
+     },
+     {
+          "card_id": "A1 056",
+          "name": "Blastoise ex",
+          "type": "Agua",
+          "ps": 180,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 4,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Surf", "damage": 40 },
+               { "name": "Hidrobazuca", "damage": 100 }
+          ],
+          "imgFile": "blastoiseEx.png"
+     },
+     {
+          "card_id": "A1 057",
+          "name": "Psyduck",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Dolor de Cabeza", "damage": 10 }
+          ],
+          "imgFile": "psyduck.png"
+     },
+     {
+          "card_id": "A1 058",
+          "name": "Golduck",
+          "type": "Agua",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 2,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Filo Agua", "damage": 70 }
+          ],
+          "imgFile": "golduck.png"
+     },
+     {
+          "card_id": "A1 059",
+          "name": "Poliwag",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Aleta Afilada", "damage": 10 }
+          ],
+          "imgFile": "poliwag.png"
+     },
+     {
+          "card_id": "A1 060",
+          "name": "Poliwhirl",
+          "type": "Agua",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 2,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Puño con Nudillos", "damage": 40 }
+          ],
+          "imgFile": "poliwhirl.png"
+     },
+     {
+          "card_id": "A1 061",
+          "name": "Poliwrath",
+          "type": "Agua",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 3,
+          "weakness": "Eléctrico", 
+          "skill": [
+               { "name": "Contragolpe", "description": "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacatnte sufre 20 puntos de daño." }
+          ], 
+          "attacks": [
+               { "name": "Megapuño", "damage": 80 }
+          ],
+          "imgFile": "poliwrath.png"
+     },
+     {
+          "card_id": "A1 062",
+          "name": "Tentacool",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Bofetada Gentil", "damage": 20 }
+          ],
+          "imgFile": "tentacool.png"
+     },
+     {
+          "card_id": "A1 063",
+          "name": "Tentacruel",
+          "type": "Agua",
+          "ps": 110,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 2,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Tentáculos Venenosos", "damage": 50 }
+          ],
+          "imgFile": "tentacruel.png"
+     },
+     {
+          "card_id": "A1 064",
+          "name": "Seel",
+          "type": "Agua",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Golpe Cabeza", "damage": 30 }
+          ],
+          "imgFile": "seel.png"
+     },
+     {
+          "card_id": "A1 065",
+          "name": "Dewgong",
+          "type": "Agua",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Surf", "damage": 90 }
+          ],
+          "imgFile": "dewgong.png"
+     },
+     {
+          "card_id": "A1 066",
+          "name": "Shellder",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Bofetón Lengua", "damage": 20 }
+          ],
+          "imgFile": "shellder.png"
+     },
+     {
+          "card_id": "A1 067",
+          "name": "Cloyster",
+          "type": "Agua",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 2,
+          "weakness": "Eléctrico",
+          "skill": [
+               { "name": "Caparazón", "description": "Los ataques hacen -10 puntos de daño a este Pokémon." }
+          ], 
+          "attacks": [
+               { "name": "Surf", "damage": 70 }
+          ],
+          "imgFile": "cloyster.png"
+     },
+     {
+          "card_id": "A1 068",
+          "name": "Krabby",
+          "type": "Agua",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Agarre", "damage": 40 }
+          ],
+          "imgFile": "krabby.png"
+     },
+     {
+          "card_id": "A1 069",
+          "name": "Kingler",
+          "type": "Agua",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 2,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Pinza Letal", "damage": 80 }
+          ],
+          "imgFile": "kingler.png"
+     },
+     {
+          "card_id": "A1 070",
+          "name": "Horsea",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Pistola Agua", "damage": 20 }
+          ],
+          "imgFile": "horsea.png"
+     },
+     {
+          "card_id": "A1 071",
+          "name": "Seadra",
+          "type": "Agua",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Flecha de Agua" }
+          ],
+          "imgFile": "seadra.png"
+     },
+     {
+          "card_id": "A1 072",
+          "name": "Goldeen",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Vuelta", "damage": 10 }
+          ],
+          "imgFile": "goldeen.png"
+     },
+     {
+          "card_id": "A1 073",
+          "name": "Seaking",
+          "type": "Agua",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Azar Cuerno", "damage": 80 }
+          ],
+          "imgFile": "seaking.png"
+     },
+     {
+          "card_id": "A1 074",
+          "name": "Staryu",
+          "type": "Agua",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Palmetazo", "damage": 20 }
+          ],
+          "imgFile": "staryu.png"
+     },
+     {
+          "card_id": "A1 075",
+          "name": "Starmie",
+          "type": "Agua",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 2,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Chapoteo Ondulante", "damage": 40 }
+          ],
+          "imgFile": "starmie.png"
+     },
+     {
+          "card_id": "A1 076",
+          "name": "Starmie ex",
+          "type": "Agua",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 4,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Hidroestallido", "damage": 90 }
+          ],
+          "imgFile": "starmieEx.png"
+     },
+     {
+          "card_id": "A1 077",
+          "name": "Magikarp",
+          "type": "Agua",
+          "ps": 30,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Salpicadura", "damage": 10 }
+          ],
+          "imgFile": "magikarp.png"
+     },
+     {
+          "card_id": "A1 078",
+          "name": "Gyarados",
+          "type": "Agua",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 3,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Hiperrayo", "damage": 100 }
+          ],
+          "imgFile": "gyarados.png"
+     },
+     {
+          "card_id": "A1 079",
+          "name": "Lapras",
+          "type": "Agua",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 3,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Hidrobomba", "damage": 20 }
+          ],
+          "imgFile": "lapras.png"
+     },
+     {
+          "card_id": "A1 080",
+          "name": "Vaporeon",
+          "type": "Agua",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 3,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Drenaje Burbujas", "damage": 60 }
+          ],
+          "imgFile": "vaporeon.png"
+     },
+     {
+          "card_id": "A1 081",
+          "name": "Omanyte",
+          "type": "Agua",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Pistola Agua", "damage": 40 }
+          ],
+          "imgFile": "omanyte.png"
+     },
+     {
+          "card_id": "A1 082",
+          "name": "Omastar",
+          "type": "Agua",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 3,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Torbellino Ancestral", "damage": 70 }
+          ],
+          "imgFile": "omastar.png"
+     },
+     {
+          "card_id": "A1 083",
+          "name": "Articuno",
+          "type": "Agua",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 3,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Rayo Hielo", "damage": 60 }
+          ],
+          "imgFile": "articuno.png"
+     },
+     {
+          "card_id": "A1 084",
+          "name": "Articuno ex",
+          "type": "Agua",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 4,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Ala Gélida", "damage": 40 },
+               { "name": "Ventisca", "damage": 80 }
+          ],
+          "imgFile": "articunoEx.png"
+     },
+     {
+          "card_id": "A1 085",
+          "name": "Ducklett",
+          "type": "Agua",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Aleteo", "damage": 30 }
+          ],
+          "imgFile": "ducklett.png"
+     },
+     {
+          "card_id": "A1 086",
+          "name": "Swanna",
+          "type": "Agua",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 2,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Ataque Ala", "damage": 70 }
+          ],
+          "imgFile": "swanna.png"
+     },
+     {
+          "card_id": "A1 087",
+          "name": "Froakie",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null, 
+          "attacks": [
+               { "name": "Vuelta", "damage": 10 }
+          ],
+          "imgFile": "froakie.png"
+     },
+     {
+          "card_id": "A1 088",
+          "name": "Frogadier",
+          "type": "Agua",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 2,
+          "weakness": "Eléctrico", 
+          "skill": null, 
+          "attacks": [
+               { "name": "Goteo de Agua", "damage": 30 }
+          ],
+          "imgFile": "frogadier.png"
+     },
+     {
+          "card_id": "A1 089",
+          "name": "Greninja",
+          "type": "Agua",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 3,
+          "weakness": "Eléctrico", 
+          "skill": [
+               { "name": "Shuriken de Agua", "description": "Una vez durante tu turno, puedes hacer 20 puntos de daño a 1 de los Pokémon de tu rival." }
+          ], 
+          "attacks": [
+               { "name": "Golpe Niebla", "damage": 60 }
+          ],
+          "imgFile": "greninja.png"
+     },
+     {
+          "card_id": "A1 090",
+          "name": "Pyukumuku",
+          "type": "Agua",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Golpe de Lluvia", "damage": 30 }
+          ],
+          "imgFile": "pyukumuku.png"
+     },
+     {
+          "card_id": "A1 091",
+          "name": "Bruxish",
+          "type": "Agua",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 2,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Segundo Golpe", "damage": 10 }
+          ],
+          "imgFile": "bruxish.png"
+     },
+     {
+          "card_id": "A1 092",
+          "name": "Snom",
+          "type": "Agua",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 1,
+          "weakness": "Metálico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Apisonar", "damage": 10 }
+          ],
+          "imgFile": "snom.png"
+     },
+     {
+          "card_id": "A1 093",
+          "name": "Frosmoth",
+          "type": "Agua",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 2,
+          "weakness": "Metálico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Nieve Polvo", "damage": 40 }
+          ],
+          "imgFile": "frosmoth.png"
+     },
+     {
+          "card_id": "A1 094",
+          "name": "Pikachu",
+          "type": "Eléctrico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Roer", "damage": 20 }
+          ],
+          "imgFile": "pikachu.png"
+     },
+     {
+          "card_id": "A1 095",
+          "name": "Raichu",
+          "type": "Eléctrico",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Rayo", "damage": 140 }
+          ],
+          "imgFile": "raichu.png"
+     },
+     {
+          "card_id": "A1 096",
+          "name": "Pikachu ex",
+          "type": "Eléctrico",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 4,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Circuito Circular", "damage": 30 }
+          ],
+          "imgFile": "pikachuEx.png"
+     },
+     {
+          "card_id": "A1 097",
+          "name": "Magnemite",
+          "type": "Eléctrico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Bola Relámpago", "damage": 20 }
+          ],
+          "imgFile": "magnemite.png"
+     },
+     {
+          "card_id": "A1 098",
+          "name": "Magneton",
+          "type": "Eléctrico",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": [
+               { "name": "Carga Voltio", "description": "Una vez durante tu turno, puedes unir 1 Energía de tu área de Energía a este Pokémon." }
+          ],
+          "attacks": [
+               { "name": "Ataque Giratorio", "damage": 60 }
+          ],
+          "imgFile": "magneton.png"
+     },
+     {
+          "card_id": "A1 099",
+          "name": "Voltorb",
+          "type": "Eléctrico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje", "damage": 20 }
+          ],
+          "imgFile": "voltorb.png"
+     },
+     {
+          "card_id": "A1 100",
+          "name": "Electrode",
+          "type": "Eléctrico",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Bola Voltio", "damage": 70 }
+          ],
+          "imgFile": "electrode.png"
+     },
+     {
+          "card_id": "A1 101",
+          "name": "Electabuzz",
+          "type": "Eléctrico",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Puño Trueno", "damage": 40 }
+          ],
+          "imgFile": "electabuzz.png"
+     },
+     {
+          "card_id": "A1 102",
+          "name": "Jolteon",
+          "type": "Eléctrico",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Pin Misil", "damage": 40 }
+          ],
+          "imgFile": "jolteon.png"
+     },
+     {
+          "card_id": "A1 103",
+          "name": "Zapdos",
+          "type": "Eléctrico",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 3,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Trueno Rabioso", "damage": 100 }
+          ],
+          "imgFile": "zapdos.png"
+     },
+     {
+          "card_id": "A1 104",
+          "name": "Zapdos ex",
+          "type": "Eléctrico",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 4,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Picotazo", "damage": 20 },
+               { "name": "Huracán Atronador", "damage": 50 }
+          ],
+          "imgFile": "zapdosEx.png"
+     },
+     {
+          "card_id": "A1 105",
+          "name": "Blitzie",
+          "type": "Eléctrico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Electropatada", "damage": 20 }
+          ],
+          "imgFile": "blitzie.png"
+     },
+     {
+          "card_id": "A1 106",
+          "name": "Zebstrika",
+          "type": "Eléctrico",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Lanza del Trueno" }
+          ],
+          "imgFile": "zebstrika.png"
+     },
+     {
+          "card_id": "A1 107",
+          "name": "Tynamo",
+          "type": "Eléctrico",
+          "ps": 30,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",  
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Carga Diminuta", "damage": 30 }
+          ],
+          "imgFile": "tynamo.png"
+     },
+     {
+          "card_id": "A1 108",
+          "name": "Eelektrik",
+          "type": "Eléctrico",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",  
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Rayo de Cabeza", "damage": 40 }
+          ],
+          "imgFile": "eelektrik.png"
+     },
+     {
+          "card_id": "A1 109",
+          "name": "Eelektross",
+          "type": "Eléctrico",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",  
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Colmillo Rayo", "damage": 80 }
+          ],
+          "imgFile": "eelektross.png"
+     },
+     {
+          "card_id": "A1 110",
+          "name": "Helioptile",
+          "type": "Eléctrico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Coletón", "damage": 20 }
+          ],
+          "imgFile": "helioptile.png"
+     },
+     {
+          "card_id": "A1 111",
+          "name": "Heliolisk",
+          "type": "Eléctrico",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Ataque Rápido", "damage": 40 }
+          ],
+          "imgFile": "heliolisk.png"
+     },
+     {
+          "card_id": "A1 112",
+          "name": "Pincurchin",
+          "type": "Eléctrico",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],  
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Impactrueno", "damage": 30 }
+          ],
+          "imgFile": "pincurchin.png"
+     },
+     {
+          "card_id": "A1 113",
+          "name": "Clefairy",
+          "type": "Psíquico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Metálico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Bofetón", "damage": 20 }
+          ],
+          "imgFile": "clefairy.png"
+     },
+     {
+          "card_id": "A1 114",
+          "name": "Clefable",
+          "type": "Psíquico",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Metálico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Disparo Mágico", "damage": 40 }
+          ],
+          "imgFile": "clefable.png"
+     },
+     {
+          "card_id": "A1 115",
+          "name": "Abra",
+          "type": "Psíquico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",  
+          "rarity": 1,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Teletransporte" }
+          ],
+          "imgFile": "abra.png"
+     },
+     {
+          "card_id": "A1 116",
+          "name": "Kadabra",
+          "type": "Psíquico",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",  
+          "rarity": 2,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Superrayo Psi", "damage": 60 }
+          ],
+          "imgFile": "kadabra.png"
+     },
+     {
+          "card_id": "A1 117",
+          "name": "Alakazam",
+          "type": "Psíquico",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",  
+          "rarity": 3,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Psíquico", "damage": 60 }
+          ],
+          "imgFile": "alakazam.png"
+     },
+     {
+          "card_id": "A1 118",
+          "name": "Slowpoke",
+          "type": "Psíquico",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 1,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Coletón", "damage": 30 }
+          ],
+          "imgFile": "slowpoke.png"
+     },
+     {
+          "card_id": "A1 119",
+          "name": "Slowbro",
+          "type": "Psíquico",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 2,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Superrayo Psi", "damage": 80 }
+          ],
+          "imgFile": "slowbro.png"
+     },
+     {
+          "card_id": "A1 120",
+          "name": "Gastly",
+          "type": "Psíquico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 1,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Gas Sofocante", "damage": 20 }
+          ],
+          "imgFile": "gastly.png"
+     },
+     {
+          "card_id": "A1 121",
+          "name": "Haunter",
+          "type": "Psíquico",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 2,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Fuego Fatuo", "damage": 30 }
+          ],
+          "imgFile": "haunter.png"
+     },
+     {
+          "card_id": "A1 122",
+          "name": "Gengar",
+          "type": "Psíquico",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 3,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Chinchar", "damage": 50 }
+          ],
+          "imgFile": "gengar.png"
+     },
+     {
+          "card_id": "A1 123",
+          "name": "Gengar ex",
+          "type": "Psíquico",
+          "ps": 170,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 4,
+          "weakness": "Oscuro", 
+          "skill": [
+               { "name": "Hechizo Sombrío", "description": "Mientras este Pokémon esté en el Puesto Activo, tu rival no puede jugar con ninguna carta de Partidario de su mano." }
+          ],
+          "attacks": [
+               { "name": "Disparo Embrujado", "damage": 100 }
+          ],
+          "imgFile": "gengarEx.png"
+     },
+     {
+          "card_id": "A1 124",
+          "name": "Drowzee",
+          "type": "Psíquico",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Farfullar", "damage": 30 }
+          ],
+          "imgFile": "drowzee.png"
+     },
+     {
+          "card_id": "A1 125",
+          "name": "Hypno",
+          "type": "Psíquico",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 3,
+          "weakness": "Oscuro", 
+          "skill": [
+               { "name": "Péndulo de sueño", "description": "Una vez durante tu turno, puedes lanzar 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Dormido. " }
+          ],
+          "attacks": [
+               { "name": "Psicopuño", "damage": 50 }
+          ],
+          "imgFile": "hypno.png"
+     },
+     {
+          "card_id": "A1 126",
+          "name": "Mr. Mime",
+          "type": "Psíquico",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 2,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Ataque Barrera", "damage": 30 }
+          ],
+          "imgFile": "mr.mime.png"
+     },
+     {
+          "card_id": "A1 127",
+          "name": "Jynx",
+          "type": "Psíquico",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 1,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Psíquico", "damage": 30 }
+          ],
+          "imgFile": "jynx.png"
+     },
+     {
+          "card_id": "A1 128",
+          "name": "Mewtwo",
+          "type": "Psíquico",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 3,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Estallido Vigoroso", "damage": 120 }
+          ],
+          "imgFile": "mewtwo.png"
+     },
+     {
+          "card_id": "A1 129",
+          "name": "Mewtwo ex",
+          "type": "Psíquico",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 4,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Esfera Psíquica", "damage": 50 },
+               { "name": "Guía Psi", "damage": 150 }
+          ],
+          "imgFile": "mewtwoEx.png"
+     },
+     {
+          "card_id": "A1 130",
+          "name": "Ralts",
+          "type": "Psíquico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 1,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Apisonar", "damage": 10 }
+          ],
+          "imgFile": "ralts.png"
+     },
+     {
+          "card_id": "A1 131",
+          "name": "Kirlia",
+          "type": "Psíquico",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 2,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Palmetazo", "damage": 10 }
+          ],
+          "imgFile": "kirlia.png"
+     },
+     {
+          "card_id": "A1 132",
+          "name": "Gardevoir",
+          "type": "Psíquico",
+          "ps": 110,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 3,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Disparo Psi", "damage": 60 }
+          ],
+          "imgFile": "gardevoir.png"
+     },
+     {
+          "card_id": "A1 133",
+          "name": "Woobat",
+          "type": "Psíquico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 1,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Roer", "damage": 10 }
+          ],
+          "imgFile": "woobat.png"
+     },
+     {
+          "card_id": "A1 134",
+          "name": "Swoobat",
+          "type": "Psíquico",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 1,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Arrumaco", "damage": 60 }
+          ],
+          "imgFile": "swoobat.png"
+     },
+     {
+          "card_id": "A1 135",
+          "name": "Golett",
+          "type": "Psíquico",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 1,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Megapuño", "damage": 50 }
+          ],
+          "imgFile": "golett.png"
+     },
+     {
+          "card_id": "A1 136",
+          "name": "Golurk",
+          "type": "Psíquico",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 2,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Doble Lazo", "damage": 100 }
+          ],
+          "imgFile": "golurk.png"
+     },
+     {
+          "card_id": "A1 137",
+          "name": "Sandshrew",
+          "type": "Lucha",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 1,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Arañazo", "damage": 10 }
+          ],
+          "imgFile": "sandshrew.png"
+     },
+     {
+          "card_id": "A1 138",
+          "name": "Sandslash",
+          "type": "Lucha",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 2,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Cuchillada", "damage": 70 }
+          ],
+          "imgFile": "sandslash.png"
+     },
+     {
+          "card_id": "A1 139",
+          "name": "Diglett",
+          "type": "Lucha",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Bofetón Lodo", "damage": 20 }
+          ],
+          "imgFile": "diglett.png"
+     },
+     {
+          "card_id": "A1 140",
+          "name": "Dugtrio",
+          "type": "Lucha",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Excavar", "damage": 40 }
+          ],
+          "imgFile": "dugtrio.png"
+     },
+     {
+          "card_id": "A1 141",
+          "name": "Mankey",
+          "type": "Lucha",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 1,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Patada Baja", "damage": 20 }
+          ],
+          "imgFile": "mankey.png"
+     },
+     {
+          "card_id": "A1 142",
+          "name": "Primeape",
+          "type": "Lucha",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 2,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Devolver Golpe", "damage": 40 }
+          ],
+          "imgFile": "primeape.png"
+     },
+     {
+          "card_id": "A1 143",
+          "name": "Machop",
+          "type": "Lucha",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 1,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Puño con Nudillos", "damage": 20 }
+          ],
+          "imgFile": "machop.png"
+     },
+     {
+          "card_id": "A1 144",
+          "name": "Machoke",
+          "type": "Lucha",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 2,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Fuerza", "damage": 50 }
+          ],
+          "imgFile": "machoke.png"
+     },
+     {
+          "card_id": "A1 145",
+          "name": "Machamp",
+          "type": "Lucha",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 3,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Sísmico", "damage": 100 }
+          ],
+          "imgFile": "machamp.png"
+     },
+     {
+          "card_id": "A1 146",
+          "name": "Machamp ex",
+          "type": "Lucha",
+          "ps": 180,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 4,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Megapuño", "damage": 120 }
+          ],
+          "imgFile": "machampEx.png"
+     },
+     {
+          "card_id": "A1 147",
+          "name": "Geodude",
+          "type": "Lucha",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje", "damage": 20 }
+          ],
+          "imgFile": "geodude.png"
+     },
+     {
+          "card_id": "A1 148",
+          "name": "Graveler",
+          "type": "Lucha",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Rodar", "damage": 70 }
+          ],
+          "imgFile": "graveler.png"
+     },
+     {
+          "card_id": "A1 149",
+          "name": "Golem",
+          "type": "Lucha",
+          "ps": 160,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 3,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Doble Filo", "damage": 150 }
+          ],
+          "imgFile": "golem.png"
+     },
+     {
+          "card_id": "A1 150",
+          "name": "Onix",
+          "type": "Lucha",
+          "ps": 110,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Aterrizaje", "damage": 70 }
+          ],
+          "imgFile": "onix.png"
+     },
+     {
+          "card_id": "A1 151",
+          "name": "Cubone",
+          "type": "Lucha",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 1,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Gruñido" }
+          ],
+          "imgFile": "cubone.png"
+     },
+     {
+          "card_id": "A1 152",
+          "name": "Marowak",
+          "type": "Lucha",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 2,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Derribo óseo", "damage": 40 }
+          ],
+          "imgFile": "marowak.png"
+     },
+     {
+          "card_id": "A1 153",
+          "name": "Marowak ex",
+          "type": "Lucha",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 4,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Huesomerang", "damage": 80 }
+          ],
+          "imgFile": "marowakEx.png"
+     },
+     {
+          "card_id": "A1 154",
+          "name": "Hitmonlee",
+          "type": "Lucha",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 1,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Patada Amplia" }
+          ],
+          "imgFile": "hitmonlee.png"
+     },
+     {
+          "card_id": "A1 155",
+          "name": "Hitmonchan",
+          "type": "Lucha",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 1,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Puya", "damage": 30 }
+          ],
+          "imgFile": "hitmonchan.png"
+     },
+     {
+          "card_id": "A1 156",
+          "name": "Rhyhorn",
+          "type": "Lucha",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 1,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje", "damage": 60}
+          ],
+          "imgFile": "rhyhorn.png"
+     },
+     {
+          "card_id": "A1 157",
+          "name": "Rhydon",
+          "type": "Lucha",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 2,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Perforador", "damage": 100}
+          ],
+          "imgFile": "rhydon.png"
+     },
+     {
+          "card_id": "A1 158",
+          "name": "Kabuto",
+          "type": "Lucha",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 2,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Ataque Caparazón", "damage": 40 }
+          ],
+          "imgFile": "kabuto.png"
+     },
+     {
+          "card_id": "A1 159",
+          "name": "Kabutops",
+          "type": "Lucha",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 3,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Chupavidas", "damage": 50 }
+          ],
+          "imgFile": "kabutops.png"
+     },
+     {
+          "card_id": "A1 160",
+          "name": "Mienfoo",
+          "type": "Lucha",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 1,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Destructor", "damage": 20 }
+          ],
+          "imgFile": "mienfoo.png"
+     },
+     {
+          "card_id": "A1 161",
+          "name": "Mienshao",
+          "type": "Lucha",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 2,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Patada Espiral", "damage": 40 }
+          ],
+          "imgFile": "mienshao.png"
+     },
+     {
+          "card_id": "A1 162",
+          "name": "Clobbopus",
+          "type": "Lucha",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 1,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Puño con Nudillos", "damage": 30 }
+          ],
+          "imgFile": "clobbopus.png"
+     },
+     {
+          "card_id": "A1 163",
+          "name": "Grapploct",
+          "type": "Lucha",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 2,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Devolver Noqueo", "damage": 70 }
+          ],
+          "imgFile": "grapploct.png"
+     },
+     {
+          "card_id": "A1 164",
+          "name": "Ekans",
+          "type": "Oscuro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Mordisco", "damage": 20 }
+          ],
+          "imgFile": "ekans.png"
+     },
+     {
+          "card_id": "A1 165",
+          "name": "Arbok",
+          "type": "Oscuro",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": ["Charizard", "Mewtwo", "Pikachu"],   
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Arrinconar", "damage": 60 }
+          ],
+          "imgFile": "arbok.png"
+     },
+     {
+          "card_id": "A1 166",
+          "name": "Nidoran♀",
+          "type": "Oscuro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",   
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Llamar a la Familia" }
+          ],
+          "imgFile": "nidoranF.png"
+     },
+     {
+          "card_id": "A1 167",
+          "name": "Nidorina",
+          "type": "Oscuro",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",   
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Mordisco", "damage": 30 }
+          ],
+          "imgFile": "nidorina.png"
+     },
+     {
+          "card_id": "A1 168",
+          "name": "Nidoqueen",
+          "type": "Oscuro",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",   
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Flechazo", "damage": 80 }
+          ],
+          "imgFile": "nidoqueen.png"
+     },
+     {
+          "card_id": "A1 169",
+          "name": "Nidoran♂",
+          "type": "Oscuro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",   
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Picotazo", "damage": 20 }
+          ],
+          "imgFile": "nidoranM.png"
+     },
+     {
+          "card_id": "A1 170",
+          "name": "Nidorino",
+          "type": "Oscuro",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",   
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Cornada", "damage": 40 }
+          ],
+          "imgFile": "nidorino.png"
+     },
+     {
+          "card_id": "A1 171",
+          "name": "Nidoking",
+          "type": "Oscuro",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",   
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Cuerno Veneno", "damage": 90 }
+          ],
+          "imgFile": "nidoking.png"
+     },
+     {
+          "card_id": "A1 172",
+          "name": "Zubat",
+          "type": "Oscuro",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Planeo", "damage": 10 }
+          ],
+          "imgFile": "zubat.png"
+     }, 
+     {
+          "card_id": "A1 173",
+          "name": "Golbat",
+          "type": "Oscuro",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Ataque Ala", "damage": 40 }
+          ],
+          "imgFile": "golbat.png"
+     }, 
+     {
+          "card_id": "A1 174",
+          "name": "Grimer",
+          "type": "Oscuro",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Gas Venenoso", "damage": 10 }
+          ],
+          "imgFile": "grimer.png"
+     }, 
+     {
+          "card_id": "A1 175",
+          "name": "Muk",
+          "type": "Oscuro",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Carga Tóxica", "damage": 70 }
+          ],
+          "imgFile": "muk.png"
+     }, 
+     {
+          "card_id": "A1 176",
+          "name": "Koffing",
+          "type": "Oscuro",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Gas Sofocante", "damage": 20 }
+          ],
+          "imgFile": "koffing.png"
+     }, 
+     {
+          "card_id": "A1 177",
+          "name": "Weezing",
+          "type": "Oscuro",
+          "ps": 110,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": [
+               { "name": "Escape de Gas", "description": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes dejar al Pokémon Activo de tu rival Envenenado." }
+          ],
+          "attacks": [
+               { "name": "Placaje", "damage": 30 }
+          ],
+          "imgFile": "weezing.png"
+     }, 
+     {
+          "card_id": "A1 178",
+          "name": "Mawile",
+          "type": "Metálico",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",   
+          "rarity": 1,
+          "weakness": "Fuego", 
+          "skill": null,
+          "attacks": [
+               { "name": "Triturar", "damage": 20 }
+          ],
+          "imgFile": "mawile.png"
+     },             
+     {
+          "card_id": "A1 179",
+          "name": "Pawniard",
+          "type": "Metálico",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 1,
+          "weakness": "Fuego", 
+          "skill": null,
+          "attacks": [
+               { "name": "Perforar", "damage": 30 }
+          ],
+          "imgFile": "pawniard.png"
+     },
+     {
+          "card_id": "A1 180",
+          "name": "Bisharp",
+          "type": "Metálico",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 2,
+          "weakness": "Fuego", 
+          "skill": null,
+          "attacks": [
+               { "name": "Garra Metal", "damage": 70 }
+          ],
+          "imgFile": "bisharp.png"
+     },
+     {
+          "card_id": "A1 181",
+          "name": "Meltan",
+          "type": "Metálico",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 1,
+          "weakness": "Fuego", 
+          "skill": null,
+          "attacks": [
+               { "name": "Amasar" }
+          ],
+          "imgFile": "meltan.png"
+     },
+     {
+          "card_id": "A1 182",
+          "name": "Melmetal",
+          "type": "Metálico",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 3,
+          "weakness": "Fuego", 
+          "skill": [
+               { "name": "Capa Resistente", "description": "Los ataques hacen -20 puntos de daño a este Pokémon" }
+          ], 
+          "attacks": [
+               { "name": "Impacto Pesado", "damage": 120 }
+          ],
+          "imgFile": "melmetal.png"
+     },
+     {
+          "card_id": "A1 183",
+          "name": "Dratini",
+          "type": "Dragón",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",                    
+          "rarity": 1,
+          "weakness": null, 
+          "skill": null,
+          "attacks": [
+               { "name": "Apisonar", "damage": 40 }
+          ],
+          "imgFile": "dratini.png"
+     },
+     {
+          "card_id": "A1 184",
+          "name": "Dragonair",
+          "type": "Dragón",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",                    
+          "rarity": 2,
+          "weakness": null, 
+          "skill": null,
+          "attacks": [
+               { "name": "Bofeton Cola", "damage": 80 }
+          ],
+          "imgFile": "dragonair.png"
+     },
+     {
+          "card_id": "A1 185",
+          "name": "Dragonite",
+          "type": "Dragón",
+          "ps": 160,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",                    
+          "rarity": 3,
+          "weakness": null, 
+          "skill": null,
+          "attacks": [
+               { "name": "Cometa Draco", "damage": 100 }
+          ],
+          "imgFile": "dragonite.png"
+     },
+     {
+          "card_id": "A1 186",
+          "name": "Pidgey",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",                    
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Tornado", "damage": 10 }
+          ],
+          "imgFile": "pidgey.png"
+     },
+     {
+          "card_id": "A1 187",
+          "name": "Pidgeotto",
+          "type": "Incoloro",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",                    
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Tornado", "damage": 30 }
+          ],
+          "imgFile": "pidgeotto.png"
+     },
+     {
+          "card_id": "A1 188",
+          "name": "Pidgeot",
+          "type": "Incoloro",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",                    
+          "rarity": 3,
+          "weakness": "Eléctrico", 
+          "skill": [
+               { "name": "Ahuyentar", "description": "Una vez durante tu turno, puedes mover el Pokémon Activo de tu rival a la Banca. (Tu rival elige el nuevo Pokémon Activo)." }
+          ], 
+          "attacks": [
+               { "name": "Ataque Ala", "damage": 70 }
+          ],
+          "imgFile": "pidgeot.png"
+     },
+     {
+          "card_id": "A1 189",
+          "name": "Rattata",
+          "type": "Incoloro",
+          "ps": 40,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Roer", "damage": 40 }
+          ],
+          "imgFile": "rattata.png"
+     },
+     {
+          "card_id": "A1 190",
+          "name": "Raticate",
+          "type": "Incoloro",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Mordisco", "damage": 40 }
+          ],
+          "imgFile": "raticate.png"
+     },
+     {
+          "card_id": "A1 191",
+          "name": "Spearow",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Picotazo", "damage": 20 }
+          ],
+          "imgFile": "spearow.png"
+     },
+     {
+          "card_id": "A1 192",
+          "name": "Fearow",
+          "type": "Incoloro",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Taladradora", "damage": 50 }
+          ],
+          "imgFile": "fearow.png"
+     },
+     {
+          "card_id": "A1 193",
+          "name": "Jigglypuff",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Pikachu",                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Destructor", "damage": 30 }
+          ],
+          "imgFile": "jigglypuff.png"
+     },
+     {
+          "card_id": "A1 194",
+          "name": "Wigglytuff",
+          "type": "Incoloro",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Pikachu",                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Vozarrón", "damage": 60 }
+          ],
+          "imgFile": "wigglytuff.png"
+     },
+     {
+          "card_id": "A1 195",
+          "name": "Wigglytuff ex",
+          "type": "Incoloro",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Pikachu",                    
+          "rarity": 4,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Canción Adormecedora", "damage": 80 }
+          ],
+          "imgFile": "wigglytuffEx.png"
+     },
+     {
+          "card_id": "A1 196",
+          "name": "Meowth",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Día de pago", "damage": 10 }
+          ],
+          "imgFile": "meowth.png"
+     },
+     {
+          "card_id": "A1 197",
+          "name": "Persian",
+          "type": "Incoloro",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Garra Umbría", "damage": 40 }
+          ],
+          "imgFile": "persian.png"
+     },
+     {
+          "card_id": "A1 198",
+          "name": "Farfetch'd",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Bofetada de Puerro", "damage": 40 }
+          ],
+          "imgFile": "farfetch'd.png"
+     },
+     {
+          "card_id": "A1 199",
+          "name": "Doduo",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 1,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Picotazo", "damage": 20 }
+          ],
+          "imgFile": "doduo.png"
+     },
+     {
+          "card_id": "A1 200",
+          "name": "Dodrio",
+          "type": "Incoloro",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 2,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Pico Taladro", "damage": 40 }
+          ],
+          "imgFile": "dodrio.png"
+     },
+     {
+          "card_id": "A1 201",
+          "name": "Lickitung",
+          "type": "Incoloro",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",                    
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Lengüetazo Incesante", "damage": 60 }
+          ],
+          "imgFile": "lickitung.png"
+     },
+     {
+          "card_id": "A1 202",
+          "name": "Chansey",
+          "type": "Incoloro",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Pikachu",                    
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Bofetada Gentil", "damage": 60 }
+          ],
+          "imgFile": "chansey.png"
+     },
+     {
+          "card_id": "A1 203",
+          "name": "Kangaskhan",
+          "type": "Incoloro",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",                    
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Puño Mareo", "damage": 30 }
+          ],
+          "imgFile": "kangaskhan.png"
+     },
+     {
+          "card_id": "A1 204",
+          "name": "Tauros",
+          "type": "Incoloro",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",                    
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Cornada", "damage": 50 }
+          ],
+          "imgFile": "tauros.png"
+     },
+     {
+          "card_id": "A1 205",
+          "name": "Ditto",
+          "type": "Incoloro",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",                    
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Copietear" }
+          ],
+          "imgFile": "ditto.png"
+     },
+     {
+          "card_id": "A1 206",
+          "name": "Eevee",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje", "damage": 20 }
+          ],
+          "imgFile": "eeveeC.png"
+     },
+     {
+          "card_id": "A1 207",
+          "name": "Eevee",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje", "damage": 20 }
+          ],
+          "imgFile": "eeveeM.png"
+     },
+     {
+          "card_id": "A1 208",
+          "name": "Eevee",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje", "damage": 20 }
+          ],
+          "imgFile": "eeveeP.png"
+     },
+     {
+          "card_id": "A1 209",
+          "name": "Porygon",
+          "type": "Incoloro",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",                    
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill":  [
+               { "name": "Escaneo de Datos", "description": "Una vez durante tu truno, puedes mirar la primera carta de tu baraja" }
+          ], 
+          "attacks": [
+               { "name": "Afilar", "damage": 20 }
+          ],
+          "imgFile": "porygon.png"
+     },
+     {
+          "card_id": "A1 210",
+          "name": "Aerodactyl",
+          "type": "Incoloro",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",                    
+          "rarity": 3,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Aleteo Primigenio" }
+          ],
+          "imgFile": "aerodactyl.png"
+     },
+     {
+          "card_id": "A1 211",
+          "name": "Snorlax",
+          "type": "Incoloro",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",                    
+          "rarity": 3,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Rodar", "damage": 70 }
+          ],
+          "imgFile": "snorlax.png"
+     },
+     {
+          "card_id": "A1 212",
+          "name": "Minccino",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Bofetón Cola", "damage": 20 }
+          ],
+          "imgFile": "minccino.png"
+     },
+     {
+          "card_id": "A1 213",
+          "name": "Cinccino",
+          "type": "Incoloro",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 2,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Hacer la Ola", "damage": 30 }
+          ],
+          "imgFile": "cinccino.png"
+     },
+     {
+          "card_id": "A1 214",
+          "name": "Wooloo",
+          "type": "Incoloro",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje", "damage": 30 }
+          ],
+          "imgFile": "wooloo.png"
+     },
+     {
+          "card_id": "A1 215",
+          "name": "Dubwool",
+          "type": "Incoloro",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                    
+          "rarity": 1,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje Giro", "damage": 80 }
+          ],
+          "imgFile": "dubwool.png"
+     },
+
+
+
+     {
+          "card_id": "A1 227",
+          "name": "Bulbasaur",
+          "type": "Planta",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 5,
+          "weakness": "Fuego",
+          "skill": null, 
+          "attacks": [
+               { "name": "Látigo Cepa", "damage": 40 }
+          ],
+          "imgFile": "bulbasaurArt.png"
+     },
+     {
+          "card_id": "A1 228",
+          "name": "Gloom",
+          "type": "Planta",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Babeo", "damage": 40 }
+          ],
+          "imgFile": "gloomArt.png"
+     },
+     {
+          "card_id": "A1 229",
+          "name": "Pinsir",
+          "type": "Planta",
+          "ps": 90,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",                    
+          "rarity": 5,
+          "weakness": "Fuego", 
+          "skill": null,
+          "attacks": [
+               { "name": "Cornada Doble", "damage": 50 }
+          ],
+          "imgFile": "pinsirArt.png"
+     },
+     {
+          "card_id": "A1 230",
+          "name": "Charmander",
+          "type": "Fuego",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",                    
+          "rarity": 5,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Ascuas", "damage": 30 }
+          ],
+          "imgFile": "charmanderArt.png"
+     },
+     {
+          "card_id": "A1 231",
+          "name": "Rapidash",
+          "type": "Fuego",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",                    
+          "rarity": 5,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Crin de Fuego", "damage": 40 }
+          ],
+          "imgFile": "rapidashArt.png"
+     },
+     {
+          "card_id": "A1 232",
+          "name": "Squirtle",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 5,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Pistola Agua", "damage": 20 }
+          ],
+          "imgFile": "squirtleArt.png"
+     },
+     {
+          "card_id": "A1 233",
+          "name": "Gyarados",
+          "type": "Agua",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 5,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Hiperrayo", "damage": 100 }
+          ],
+          "imgFile": "gyaradosArt.png"
+     },
+     {
+          "card_id": "A1 234",
+          "name": "Lapras",
+          "type": "Agua",
+          "ps": 100,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",                    
+          "rarity": 5,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Hidrobomba", "damage": 20 }
+          ],
+          "imgFile": "laprasArt.png"
+     },
+     {
+          "card_id": "A1 235",
+          "name": "Electrode",
+          "type": "Eléctrico",
+          "ps": 80,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Bola Voltio", "damage": 70 }
+          ],
+          "imgFile": "electrodeArt.png"
+     },
+     {
+          "card_id": "A1 236",
+          "name": "Alakazam",
+          "type": "Psíquico",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Charizard",                    
+          "rarity": 5,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Psíquico", "damage": 60 }
+          ],
+          "imgFile": "alakazamArt.png"
+     },
+     {
+          "card_id": "A1 237",
+          "name": "Slowpoke",
+          "type": "Psíquico",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 5,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Coletón", "damage": 30 }
+          ],
+          "imgFile": "slowpokeArt.png"
+     },
+     {
+          "card_id": "A1 238",
+          "name": "Diglett",
+          "type": "Lucha",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 5,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Bofetón Lodo", "damage": 20 }
+          ],
+          "imgFile": "diglettArt.png"
+     },
+     {
+          "card_id": "A1 239",
+          "name": "Cubone",
+          "type": "Lucha",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 5,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Gruñido" }
+          ],
+          "imgFile": "cuboneArt.png"
+     },
+     {
+          "card_id": "A1 240",
+          "name": "Nidoqueen",
+          "type": "Oscuro",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",   
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Flechazo", "damage": 80 }
+          ],
+          "imgFile": "nidoqueenArt.png"
+     },
+     {
+          "card_id": "A1 241",
+          "name": "Nidoking",
+          "type": "Oscuro",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",   
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Flechazo", "damage": 80 }
+          ],
+          "imgFile": "nidokingArt.png"
+     },
+     {
+          "card_id": "A1 242",
+          "name": "Golbat",
+          "type": "Oscuro",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Ataque Ala", "damage": 40 }
+          ],
+          "imgFile": "golbatArt.png"
+     },
+     {
+          "card_id": "A1 243",
+          "name": "Weezing",
+          "type": "Oscuro",
+          "ps": 110,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill": [
+               { "name": "Escape de Gas", "description": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes dejar al Pokémon Activo de tu rival Envenenado." }
+          ],
+          "attacks": [
+               { "name": "Placaje", "damage": 30 }
+          ],
+          "imgFile": "weezingArt.png"
+     }, 
+     {
+          "card_id": "A1 244",
+          "name": "Dragonite",
+          "type": "Dragón",
+          "ps": 160,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",                    
+          "rarity": 5,
+          "weakness": null, 
+          "skill": null,
+          "attacks": [
+               { "name": "Cometa Draco", "damage": 100 }
+          ],
+          "imgFile": "dragoniteArt.png"
+     },
+     {
+          "card_id": "A1 245",
+          "name": "Pidgeot",
+          "type": "Incoloro",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Mewtwo",                    
+          "rarity": 5,
+          "weakness": "Eléctrico", 
+          "skill": [
+               { "name": "Ahuyentar", "description": "Una vez durante tu turno, puedes mover el Pokémon Activo de tu rival a la Banca. (Tu rival elige el nuevo Pokémon Activo)." }
+          ], 
+          "attacks": [
+               { "name": "Ataque Ala", "damage": 70 }
+          ],
+          "imgFile": "pidgeotArt.png"
+     },
+     {
+          "card_id": "A1 246",
+          "name": "Meowth",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Día de pago", "damage": 10 }
+          ],
+          "imgFile": "meowthArt.png"
+     },
+     {
+          "card_id": "A1 247",
+          "name": "Ditto",
+          "type": "Incoloro",
+          "ps": 70,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",                    
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Copietear" }
+          ],
+          "imgFile": "dittoArt.png"
+     },
+     {
+          "card_id": "A1 248",
+          "name": "Eevee",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",                    
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje", "damage": 20 }
+          ],
+          "imgFile": "eeveeArt.png"
+     },
+     {
+          "card_id": "A1 249",
+          "name": "Porygon",
+          "type": "Incoloro",
+          "ps": 50,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",                    
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill":  [
+               { "name": "Escaneo de Datos", "description": "Una vez durante tu truno, puedes mirar la primera carta de tu baraja." }
+          ], 
+          "attacks": [
+               { "name": "Afilar", "damage": 20 }
+          ],
+          "imgFile": "porygonArt.png"
+     },
+     {
+          "card_id": "A1 250",
+          "name": "Snorlax",
+          "type": "Incoloro",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",                    
+          "rarity": 5,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Rodar", "damage": 70 }
+          ],
+          "imgFile": "snorlaxArt.png"
+     },
+     {
+          "card_id": "A1 251",
+          "name": "Venusaur ex",
+          "type": "Planta",
+          "ps": 190,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 6,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Hoja Afilada", "damage": 60 },
+               { "name": "Floración Gigante", "damage": 100 }
+          ],
+          "imgFile": "venusaurExArt.png"
+     },
+     {
+          "card_id": "A1 252",
+          "name": "Exeggutor ex",
+          "type": "Planta",
+          "ps": 160,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 6,
+          "weakness": "Fuego", 
+          "skill": null,
+          "attacks": [
+               { "name": "Golpe Tropical", "damage": 40 }
+          ],
+          "imgFile": "exeggutorExArt.png"
+     },
+     {
+          "card_id": "A1 253",
+          "name": "Charizard ex",
+          "type": "Fuego",
+          "ps": 180,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 6,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Cuchillada", "damage": 60 },
+               { "name": "Tormenta Carmesí", "damage": 200 }
+          ],
+          "imgFile": "charizardExArt.png"
+     },
+     {
+          "card_id": "A1 254",
+          "name": "Arcanine Ex",
+          "type": "Fuego",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",
+          "rarity": 6,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Infieno Desatado", "damage": 120 }
+          ],
+          "imgFile": "arcanineExArt.png"
+     },
+     {
+          "card_id": "A1 255",
+          "name": "Moltres ex",
+          "type": "Fuego",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 6,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Danza Infernal" },
+               { "name": "Explosión de Calor", "damage": 70 }
+          ],
+          "imgFile": "moltresExArt.png"
+     },
+     {
+          "card_id": "A1 255",
+          "name": "Blastoise ex",
+          "type": "Agua",
+          "ps": 180,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 6,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Surf", "damage": 40 },
+               { "name": "Hidrobazuca", "damage": 100 }
+          ],
+          "imgFile": "blastoiseExArt.png"
+     },
+     {
+          "card_id": "A1 257",
+          "name": "Starmie ex",
+          "type": "Agua",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 6,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Hidroestallido", "damage": 90 }
+          ],
+          "imgFile": "starmieExArt.png"
+     },
+     {
+          "card_id": "A1 258",
+          "name": "Articuno ex",
+          "type": "Agua",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 6,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Ala Gélida", "damage": 40 },
+               { "name": "Ventisca", "damage": 80 }
+          ],
+          "imgFile": "articunoExArt.png"
+     },
+     {
+          "card_id": "A1 259",
+          "name": "Pikachu ex",
+          "type": "Eléctrico",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 6,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Circuito Circular", "damage": 30 }
+          ],
+          "imgFile": "pikachuExArt.png"
+     },
+     {
+          "card_id": "A1 260",
+          "name": "Zapdos ex",
+          "type": "Eléctrico",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 6,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Picotazo", "damage": 20 },
+               { "name": "Huracán Atronador", "damage": 50 }
+          ],
+          "imgFile": "zapdosExArt.png"
+     },
+     {
+          "card_id": "A1 261",
+          "name": "Gengar ex",
+          "type": "Psíquico",
+          "ps": 170,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 6,
+          "weakness": "Oscuro", 
+          "skill": [
+               { "name": "Hechizo Sombrío", "description": "Mientras este Pokémon esté en el Puesto Activo, tu rival no puede jugar con ninguna carta de Partidario de su mano." }
+          ],
+          "attacks": [
+               { "name": "Disparo Embrujado", "damage": 100 }
+          ],
+          "imgFile": "gengarExArt.png"
+     },
+     {
+          "card_id": "A1 262",
+          "name": "Mewtwo ex",
+          "type": "Psíquico",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 6,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Esfera Psíquica", "damage": 50 },
+               { "name": "Guía Psi", "damage": 150 }
+          ],
+          "imgFile": "mewtwoExArt.png"
+     },
+     {
+          "card_id": "A1 263",
+          "name": "Machamp ex",
+          "type": "Lucha",
+          "ps": 180,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 6,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Megapuño", "damage": 120 }
+          ],
+          "imgFile": "machampExArt.png"
+     },
+     {
+          "card_id": "A1 264",
+          "name": "Marowak ex",
+          "type": "Lucha",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 6,
+          "weakness": "Planta", 
+          "skill": null,
+          "attacks": [
+               { "name": "Huesomerang", "damage": 80 }
+          ],
+          "imgFile": "marowakExArt.png"
+     },
+     {
+          "card_id": "A1 265",
+          "name": "Wigglytuff ex",
+          "type": "Incoloro",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Pikachu",                    
+          "rarity": 6,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Canción Adormecedora", "damage": 80 }
+          ],
+          "imgFile": "wigglytuffExArt.png"
+     },
+
+
+
+     {
+          "card_id": "A1 274",
+          "name": "Moltres ex",
+          "type": "Fuego",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 6,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Danza Infernal" },
+               { "name": "Explosión de Calor", "damage": 70 }
+          ],
+          "imgFile": "moltresExRainbow.png"
+     },
+     {
+          "card_id": "A1 275",
+          "name": "Articuno ex",
+          "type": "Agua",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",
+          "rarity": 6,
+          "weakness": "Eléctrico",
+          "skill": null, 
+          "attacks": [
+               { "name": "Ala Gélida", "damage": 40 },
+               { "name": "Ventisca", "damage": 80 }
+          ],
+          "imgFile": "articunoExRainbow.png"
+     },
+     {
+          "card_id": "A1 276",
+          "name": "Zapdos ex",
+          "type": "Eléctrico",
+          "ps": 130,
+          "expansion_name": "Genes Formidables",
+          "packName": "Pikachu",  
+          "rarity": 6,
+          "weakness": "Eléctrico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Picotazo", "damage": 20 },
+               { "name": "Huracán Atronador", "damage": 50 }
+          ],
+          "imgFile": "zapdosExRainbow.png"
+     },
+     {
+          "card_id": "A1 277",
+          "name": "Gengar ex",
+          "type": "Psíquico",
+          "ps": 170,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 6,
+          "weakness": "Oscuro", 
+          "skill": [
+               { "name": "Hechizo Sombrío", "description": "Mientras este Pokémon esté en el Puesto Activo, tu rival no puede jugar con ninguna carta de Partidario de su mano." }
+          ],
+          "attacks": [
+               { "name": "Disparo Embrujado", "damage": 100 }
+          ],
+          "imgFile": "gengarExRainbow.png"
+     },
+     {
+          "card_id": "A1 278",
+          "name": "Machamp ex",
+          "type": "Lucha",
+          "ps": 180,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 6,
+          "weakness": "Psíquico", 
+          "skill": null,
+          "attacks": [
+               { "name": "Megapuño", "damage": 120 }
+          ],
+          "imgFile": "machampExRainbow.png"
+     },
+     {
+          "card_id": "A1 279",
+          "name": "Wigglytuff ex",
+          "type": "Incoloro",
+          "ps": 140,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Pikachu",                    
+          "rarity": 6,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Canción Adormecedora", "damage": 80 }
+          ],
+          "imgFile": "wigglytuffExRainbow.png"
+     },
+     {
+          "card_id": "A1 280",
+          "name": "Charizard ex",
+          "type": "Fuego",
+          "ps": 180,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Charizard",                    
+          "rarity": 7,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Cuchillada", "damage": 60 },
+               { "name": "Tormenta Carmesí", "damage": 200 }
+          ],
+          "imgFile": "charizardExPearl.png"
+     },
+     {
+          "card_id": "A1 281",
+          "name": "Pikachu ex",
+          "type": "Eléctrico",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName":  "Pikachu",                      
+          "rarity": 7,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Circuito Circular", "damage": 30 }
+          ],
+          "imgFile": "pikachuExPearl.png"
+     },
+     {
+          "card_id": "A1 282",
+          "name": "Mewtwo ex",
+          "type": "Psíquico",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 7,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Esfera Psíquica", "damage": 50 },
+               { "name": "Guía Psi", "damage": 150 }
+          ],
+          "imgFile": "mewtwoExPearl.png"
+     },
+     {
+          "card_id": "A1 283",
+          "name": "Mew",
+          "type": "Psíquico",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName": "Mewtwo",   
+          "rarity": 7,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Esfera Psíquica", "damage": 50 },
+               { "name": "Guía Psi", "damage": 150 }
+          ],
+          "imgFile": "mewPearl.png"
+     },
+     {
+          "card_id": "A1 284",
+          "name": "Charizard ex",
+          "type": "Fuego",
+          "ps": 180,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                     
+          "rarity": 8,
+          "weakness": "Agua", 
+          "skill": null,
+          "attacks": [
+               { "name": "Cuchillada", "damage": 60 },
+               { "name": "Tormenta Carmesí", "damage": 200 }
+          ],
+          "imgFile": "charizardExEr.png"
+     },
+     {
+          "card_id": "A1 285",
+          "name": "Pikachu ex",
+          "type": "Eléctrico",
+          "ps": 120,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                      
+          "rarity": 8,
+          "weakness": "Lucha", 
+          "skill": null,
+          "attacks": [
+               { "name": "Circuito Circular", "damage": 30 }
+          ],
+          "imgFile": "pikachuExEr.png"
+     },
+     {
+          "card_id": "A1 286",
+          "name": "Mewtwo ex",
+          "type": "Psíquico",
+          "ps": 150,
+          "expansion_name": "Genes Formidables",
+          "packName":  ["Charizard", "Mewtwo", "Pikachu"],                      
+          "rarity": 8,
+          "weakness": "Oscuro", 
+          "skill": null,
+          "attacks": [
+               { "name": "Esfera Psíquica", "damage": 50 },
+               { "name": "Guía", "damage": 150 }
+          ],
+          "imgFile": "mewtwoExEr.png"
+     },
+
+
+
+     {
+          "card_id": "A1a 001",
+          "name": "Exeggcute",
+          "type": "Planta",
+          "ps": 50,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Crecimiento Repentino" }
+          ],
+          "imgFile": "exeggcute.png"
+     },
+     {
+          "card_id": "A1a 002",
+          "name": "Exeggutor",
+          "type": "Planta",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Psíquico", "damage": 80 }
+          ],
+          "imgFile": "exeggutor.png"
+     },
+     {
+          "card_id": "A1a 003",
+          "name": "Celebi ex",
+          "type": "Planta",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 4,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Floración Potente", "damage": 50 }
+          ],
+          "imgFile": "celebiEx.png"
+     },
+     {
+          "card_id": "A1a 004",
+          "name": "Snivy",
+          "type": "Planta",
+          "ps": 70,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Látigo Cepa", "damage": 40 }
+          ],
+          "imgFile": "snivy.png"
+     },
+     {
+          "card_id": "A1a 005",
+          "name": "Servine",
+          "type": "Planta",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Látigo Cepa", "damage": 50 }
+          ],
+          "imgFile": "servine.png"
+     },
+     {
+          "card_id": "A1a 006",
+          "name": "Serperior",
+          "type": "Planta",
+          "ps": 110,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 3,
+          "weakness": "Fuego",
+          "skill": [
+               { "name": "Dominio de la Selva", "description": "Cada Energía unida a tus Pokémon proporciona 2 Energías. Este efecto no se acumula." }
+          ],
+          "attacks": [
+               { "name": "Rayo Solar", "damage": 70 }
+          ],
+          "imgFile": "serperior.png"
+     },
+     {
+          "card_id": "A1a 007",
+          "name": "Morelull",
+          "type": "Planta",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Apisonar", "damage": 20 }
+          ],
+          "imgFile": "morelull.png"
+     },
+     {
+          "card_id": "A1a 008",
+          "name": "Shiinotic",
+          "type": "Planta",
+          "ps": 90,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Esporas Parpadeantes", "damage": 50 }
+          ],
+          "imgFile": "shiinotic.png"
+     },
+     {
+          "card_id": "A1a 009",
+          "name": "Dhelmise",
+          "type": "Planta",
+          "ps": 100,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Látigo Energético", "damage": 20 }
+          ],
+          "imgFile": "dhelmise.png"
+     },
+     {
+          "card_id": "A1a 010",
+          "name": "Ponyta",
+          "type": "Fuego",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Pisotón", "damage": 10 }
+          ],
+          "imgFile": "ponyta.png"
+     },
+     {
+          "card_id": "A1a 011",
+          "name": "Rapidash",
+          "type": "Fuego",
+          "ps": 100,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Embestida Ascendente", "damage": 40 }
+          ],
+          "imgFile": "rapidash.png"
+     },
+     {
+          "card_id": "A1a 012",
+          "name": "Magmar",
+          "type": "Fuego",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Llamarada", "damage": 80 }
+          ],
+          "imgFile": "magmar.png"
+     },
+     {
+          "card_id": "A1a 013",
+          "name": "Larvesta",
+          "type": "Fuego",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Combustión", "damage": 30 }
+          ],
+          "imgFile": "larvesta.png"
+     },
+     {
+          "card_id": "A1a 014",
+          "name": "Volcarona",
+          "type": "Fuego",
+          "ps": 120,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 3,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Ceniza Volcánica" }
+          ],
+          "imgFile": "volcarona.png"
+     },
+     {
+          "card_id": "A1a 015",
+          "name": "Salandit",
+          "type": "Fuego",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Carga Tóxica", "damage": 10 }
+          ],
+          "imgFile": "salandit.png"
+     },
+     {
+          "card_id": "A1a 016",
+          "name": "Salazzle",
+          "type": "Fuego",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Garras Venenosas", "damage": 30 }
+          ],
+          "imgFile": "salazzle.png"
+     },
+     {
+          "card_id": "A1a 017",
+          "name": "Magikarp",
+          "type": "Agua",
+          "ps": 30,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Saltar del Agua" }
+          ],
+          "imgFile": "magikarp.png"
+     },
+     {
+          "card_id": "A1a 018",
+          "name": "Gyarados ex",
+          "type": "Agua",
+          "ps": 180,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 4,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Torbellino Furioso", "damage": 140 }
+          ],
+          "imgFile": "gyaradosEx.png"
+     },
+     {
+          "card_id": "A1a 019",
+          "name": "Vaporeon",
+          "type": "Agua",
+          "ps": 120,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 3,
+          "weakness": "Eléctrico",
+          "skill": [
+               { "name": "Hacer Limpieza", "description": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía de 1 de tus Pokémon en Banca a tu Pokémon Activo." }
+          ],
+          "attacks": [
+               { "name": "Chapoteo Ondulante", "damage": 60 }
+          ],
+          "imgFile": "vaporeon.png"
+     },
+     {
+          "card_id": "A1a 020",
+          "name": "Finneon",
+          "type": "Agua",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Pistola Agua", "damage": 20 }
+          ],
+          "imgFile": "finneon.png"
+     },
+     {
+          "card_id": "A1a 021",
+          "name": "Lumineon",
+          "type": "Agua",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Agua en Tromba" }
+          ],
+          "imgFile": "lumineon.png"
+     },
+     {
+          "card_id": "A1a 022",
+          "name": "Chewtle",
+          "type": "Agua",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Mordisco", "damage": 30 }
+          ],
+          "imgFile": "chewtle.png"
+     },
+     {
+          "card_id": "A1a 023",
+          "name": "Drednaw",
+          "type": "Agua",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Triturar", "damage": 70 }
+          ],
+          "imgFile": "drednaw.png"
+     },
+     {
+          "card_id": "A1a 024",
+          "name": "Cramorant",
+          "type": "Agua",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Buceo", "damage": 60 }
+          ],
+          "imgFile": "cramorant.png"
+     },
+     {
+          "card_id": "A1a 025",
+          "name": "Pikachu",
+          "type": "Eléctrico",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Circuito Circular", "damage": 10 }
+          ],
+          "imgFile": "pikachu.png"
+     },
+     {
+          "card_id": "A1a 026",
+          "name": "Raichu",
+          "type": "Eléctrico",
+          "ps": 120,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 3,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Gigasacudida", "damage": 60 }
+          ],
+          "imgFile": "raichu.png"
+     },
+     {
+          "card_id": "A1a 027",
+          "name": "Electabuzz",
+          "type": "Eléctrico",
+          "ps": 70,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Lanza del Trueno" }
+          ],
+          "imgFile": "electabuzz.png"
+     },
+     {
+          "card_id": "A1a 028",
+          "name": "Joltik",
+          "type": "Eléctrico",
+          "ps": 40,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Picadura", "damage": 30 }
+          ],
+          "imgFile": "joltik.png"
+     },
+     {
+          "card_id": "A1a 029",
+          "name": "Galvantula",
+          "type": "Eléctrico",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Electrotela", "damage": 70 }
+          ],
+          "imgFile": "galvantula.png"
+     },
+     {
+          "card_id": "A1a 030",
+          "name": "Dedenne",
+          "type": "Eléctrico",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Impactrueno", "damage": 10 }
+          ],
+          "imgFile": "dedenne.png"
+     },
+     {
+          "card_id": "A1a 031",
+          "name": "Mew",
+          "type": "Psíquico",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 3,
+          "weakness": "Oscuro",
+          "skill": null,
+          "attacks": [
+               { "name": "Psicoinforme", "damage": 20 }
+          ],
+          "imgFile": "mew.png"
+     },
+     {
+          "card_id": "A1a 032",
+          "name": "Mew ex",
+          "type": "Psíquico",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 4,
+          "weakness": "Oscuro",
+          "skill": null,
+          "attacks": [
+               { "name": "Disparo Psi", "damage": 20 },
+               { "name": "Hackeo Genoma" }
+          ],
+          "imgFile": "mewEx.png"
+     },
+     {
+          "card_id": "A1a 033",
+          "name": "Sigilyph",
+          "type": "Psíquico",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Oscuro",
+          "skill": null,
+          "attacks": [
+               { "name": "Robo Pico", "damage": 10 }
+          ],
+          "imgFile": "sigilyph.png"
+     },
+     {
+          "card_id": "A1a 034",
+          "name": "Elgyem",
+          "type": "Psíquico",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Oscuro",
+          "skill": null,
+          "attacks": [
+               { "name": "Golpe Cabeza", "damage": 20 }
+          ],
+          "imgFile": "elgyem.png"
+     },
+     {
+          "card_id": "A1a 035",
+          "name": "Beheeyem",
+          "type": "Psíquico",
+          "ps": 90,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Oscuro",
+          "skill": null,
+          "attacks": [
+               { "name": "Levantamente", "damage": 10 }
+          ],
+          "imgFile": "beheeyem.png"
+     },
+     {
+          "card_id": "A1a 036",
+          "name": "Flabébé",
+          "type": "Psíquico",
+          "ps": 40,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Metálico",
+          "skill": null,
+          "attacks": [
+               { "name": "Mirada Hipnótica" }
+          ],
+          "imgFile": "flabebe.png"
+     },
+     {
+          "card_id": "A1a 037",
+          "name": "Floette",
+          "type": "Psíquico",
+          "ps": 70,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Metálico",
+          "skill": null,
+          "attacks": [
+               { "name": "Hoja Drenante", "damage": 40 }
+          ],
+          "imgFile": "floette.png"
+     },
+     {
+          "card_id": "A1a 038",
+          "name": "Florges",
+          "type": "Psíquico",
+          "ps": 120,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Metálico",
+          "skill": null,
+          "attacks": [
+               { "name": "Resplandeflor", "damage": 80 }
+          ],
+          "imgFile": "florges.png"
+     },
+     {
+          "card_id": "A1a 039",
+          "name": "Swirlix",
+          "type": "Psíquico",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Metálico",
+          "skill": null,
+          "attacks": [
+               { "name": "Viento Feérico", "damage": 20 }
+          ],
+          "imgFile": "swirlix.png"
+     },
+     {
+          "card_id": "A1a 040",
+          "name": "Slurpuff",
+          "type": "Psíquico",
+          "ps": 100,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Metálico",
+          "skill": null,
+          "attacks": [
+               { "name": "Disparo Mágico", "damage": 60 }
+          ],
+          "imgFile": "slurpuff.png"
+     },
+     {
+          "card_id": "A1a 041",
+          "name": "Mankey",
+          "type": "Lucha",
+          "ps": 50,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Psíquico",
+          "skill": null,
+          "attacks": [
+               { "name": "Puño Infalible", "damage": 50 }
+          ],
+          "imgFile": "mankey.png"
+     },
+     {
+          "card_id": "A1a 042",
+          "name": "Primeape",
+          "type": "Lucha",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Psíquico",
+          "skill": null,
+          "attacks": [
+               { "name": "Puño", "damage": 50 }
+          ],
+          "imgFile": "primeape.png"
+     },
+     {
+          "card_id": "A1a 043",
+          "name": "Geodude",
+          "type": "Lucha",
+          "ps": 70,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Planta",
+          "skill": null,
+          "attacks": [
+               { "name": "Puño Ligero", "damage": 30 }
+          ],
+          "imgFile": "geodude.png"
+     },
+     {
+          "card_id": "A1a 044",
+          "name": "Graveler",
+          "type": "Lucha",
+          "ps": 100,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Planta",
+          "skill": null,
+          "attacks": [
+               { "name": "Arremeter", "damage": 40 }
+          ],
+          "imgFile": "graveler.png"
+     },
+     {
+          "card_id": "A1a 045",
+          "name": "Golem",
+          "type": "Lucha",
+          "ps": 160,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 3,
+          "weakness": "Planta",
+          "skill": null,
+          "attacks": [
+               { "name": "Presión de Guardia", "damage": 120 }
+          ],
+          "imgFile": "golem.png"
+     },
+     {
+          "card_id": "A1a 046",
+          "name": "Aerodactyl ex",
+          "type": "Lucha",
+          "ps": 140,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 4,
+          "weakness": "Eléctrico",
+          "skill": [
+               { "name": "Ley Primitiva", "description": "Tu rival no puede jugar ningún Pokémon de su mano para hacer evolucionar al Pokémon Activo." }
+          ],
+          "attacks": [
+               { "name": "Aterrizaje", "damage": 80 }
+          ],
+          "imgFile": "aerodactylEx.png"
+     },
+     {
+          "card_id": "A1a 047",
+          "name": "Marshadow",
+          "type": "Lucha",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 3,
+          "weakness": "Oscuro",
+          "skill": null,
+          "attacks": [
+               { "name": "Desquite", "damage": 40 }
+          ],
+          "imgFile": "marshadow.png"
+     },
+     {
+          "card_id": "A1a 048",
+          "name": "Stonjourner",
+          "type": "Lucha",
+          "ps": 120,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Planta",
+          "skill": null,
+          "attacks": [
+               { "name": "Megapatada", "damage": 90 }
+          ],
+          "imgFile": "stonjourner.png"
+     },
+     {
+          "card_id": "A1a 049",
+          "name": "Koffing",
+          "type": "Oscuro",
+          "ps": 70,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "División" }
+          ],
+          "imgFile": "koffing.png"
+     },
+     {
+          "card_id": "A1a 050",
+          "name": "Weezing",
+          "type": "Oscuro",
+          "ps": 110,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Pantalla de Humo", "damage": 50 }
+          ],
+          "imgFile": "weezing.png"
+     },
+     {
+          "card_id": "A1a 051",
+          "name": "Purrloin",
+          "type": "Oscuro",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Planta",
+          "skill": null,
+          "attacks": [
+               { "name": "Arañazo", "damage": 20 }
+          ],
+          "imgFile": "purrloin.png"
+     },
+     {
+          "card_id": "A1a 052",
+          "name": "Liepard",
+          "type": "Oscuro",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Planta",
+          "skill": null,
+          "attacks": [
+               { "name": "Cuchillada", "damage": 40 }
+          ],
+          "imgFile": "liepard.png"
+     },
+     {
+          "card_id": "A1a 053",
+          "name": "Venipede",
+          "type": "Oscuro",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Apisonar", "damage": 20 }
+          ],
+          "imgFile": "venipede.png"
+     },
+     {
+          "card_id": "A1a 054",
+          "name": "Whirlipede",
+          "type": "Oscuro",
+          "ps": 90,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Picotazo Veneno", "damage": 20 }
+          ],
+          "imgFile": "whirlipede.png"
+     },
+     {
+          "card_id": "A1a 055",
+          "name": "Scolipede",
+          "type": "Oscuro",
+          "ps": 140,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Carga Tóxica", "damage": 70 }
+          ],
+          "imgFile": "scolipede.png"
+     },
+     {
+          "card_id": "A1a 056",
+          "name": "Druddigon",
+          "type": "Dragón",
+          "ps": 100,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 2,
+          "weakness": null,
+          "skill": [
+               { "name": "Piel Tosca", "description": "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacante sufre 20 puntos de daño." }
+          ],
+          "attacks": [
+               { "name": "Garra Dragón", "damage": 90 }
+          ],
+          "imgFile": "druddigon.png"
+     },
+     {
+          "card_id": "A1a 057",
+          "name": "Pidgey",
+          "type": "Incoloro",
+          "ps": 50,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Aleteo", "damage": 20 }
+          ],
+          "imgFile": "pidgey.png"
+     },
+     {
+          "card_id": "A1a 058",
+          "name": "Pidgeotto",
+          "type": "Incoloro",
+          "ps": 90,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Ataque Ala", "damage": 50 }
+          ],
+          "imgFile": "pidgeotto.png"
+     },
+     {
+          "card_id": "A1a 059",
+          "name": "Pidgeot ex",
+          "type": "Incoloro",
+          "ps": 170,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 4,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Ciclón Fragmentado", "damage": 80 }
+          ],
+          "imgFile": "pidgeotEx.png"
+     },
+     {
+          "card_id": "A1a 060",
+          "name": "Tauros",
+          "type": "Incoloro",
+          "ps": 100,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 3,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Placaje Lucha", "damage": 40 }
+          ],
+          "imgFile": "tauros.png"
+     },
+     {
+          "card_id": "A1a 061",
+          "name": "Eevee",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Pasos Incesantes", "damage": 20 }
+          ],
+          "imgFile": "eevee.png"
+     },
+     {
+          "card_id": "A1a 062",
+          "name": "Chatot",
+          "type": "Incoloro",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 1,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Mimético" }
+          ],
+          "imgFile": "chatot.png"
+     },
+
+
+
+     {
+          "card_id": "A1a 069",
+          "name": "Exeggutor",
+          "type": "Planta",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 5,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Psíquico", "damage": 80 }
+          ],
+          "imgFile": "exeggutorArt.png"
+     },
+     {
+          "card_id": "A1a 070",
+          "name": "Serperior",
+          "type": "Planta",
+          "ps": 110,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 3,
+          "weakness": "Fuego",
+          "skill": [
+               { "name": "Dominio de la Selva", "description": "Cada Energía unida a tus Pokémon proporciona 2 Energías. Este efecto no se acumula." }
+          ],
+          "attacks": [
+               { "name": "Rayo Solar", "damage": 70 }
+          ],
+          "imgFile": "serperiorArt.png"
+     },
+     {
+          "card_id": "A1a 071",
+          "name": "Salandit",
+          "type": "Fuego",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 5,
+          "weakness": "Agua",
+          "skill": null,
+          "attacks": [
+               { "name": "Carga Tóxica", "damage": 10 }
+          ],
+          "imgFile": "salanditArt.png"
+     },
+     {
+          "card_id": "A1a 072",
+          "name": "Vaporeon",
+          "type": "Agua",
+          "ps": 120,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 5,
+          "weakness": "Eléctrico",
+          "skill": [
+               { "name": "Hacer Limpieza", "description": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía de 1 de tus Pokémon en Banca a tu Pokémon Activo." }
+          ],
+          "attacks": [
+               { "name": "Chapoteo Ondulante", "damage": 60 }
+          ],
+          "imgFile": "vaporeonArt.png"
+     },
+     {
+          "card_id": "A1a 073",
+          "name": "Dedenne",
+          "type": "Eléctrico",
+          "ps": 60,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 5,
+          "weakness": "Lucha",
+          "skill": null,
+          "attacks": [
+               { "name": "Impactrueno", "damage": 10 }
+          ],
+          "imgFile": "dedenneArt.png"
+     },
+     {
+          "card_id": "A1a 074",
+          "name": "Marshadow",
+          "type": "Lucha",
+          "ps": 80,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 5,
+          "weakness": "Psíquico",
+          "skill": null,
+          "attacks": [
+               { "name": "Desquite", "damage": 40 }
+          ],
+          "imgFile": "marshadowArt.png"
+     },
+     {
+          "card_id": "A1a 075",
+          "name": "Celebi ex",
+          "type": "Planta",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 6,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks": [
+               { "name": "Floración Potente", "damage": 50 }
+          ],
+          "imgFile": "celebiExArt.png"
+     },
+     {
+          "card_id": "A1a 076",
+          "name": "Gyarados ex",
+          "type": "Agua",
+          "ps": 180,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 6,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks": [
+               { "name": "Torbellino Furioso", "damage": 140 }
+          ],
+          "imgFile": "gyaradosExArt.png"
+     },
+     {
+          "card_id": "A1a 077",
+          "name": "Mew ex",
+          "type": "Psíquico",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 6,
+          "weakness": "Oscuro",
+          "skill": null,
+          "attacks":[
+               { "name": "Disparo Psi", "damage": 20 },
+               { "name": "Hackeo Genoma" }
+          ],
+          "imgFile": "mewExArt.png"
+     },
+     {
+          "card_id": "A1a 078",
+          "name": "Aerodactyl ex",
+          "type": "Lucha",
+          "ps": 140,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 6,
+          "weakness": "Eléctrico",
+          "skill": [
+               { "name": "Ley Primitiva", "description": "Tu rival no puede jugar ningún Pokémon de su mano para hacer evolucionar al Pokémon Activo." }
+          ],
+          "attacks":[
+               { "name": "Aterrizaje", "damage": 80 }
+               
+          ],
+          "imgFile": "aerodactylExArt.png"
+     },
+     {
+          "card_id": "A1a 079",
+          "name": "Pidgeot ex",
+          "type": "Incoloro",
+          "ps": 170,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 6,
+          "weakness": "Eléctrico",
+          "skill": null,
+          "attacks":[
+               { "name": "Ciclón Fragmentado", "damage": 80 }
+               
+          ],
+          "imgFile": "pidgeotExArt.png"
+     },
+     {
+          "card_id": "A1a 083",
+          "name": "Mew ex",
+          "type": "Psíquico",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 6,
+          "weakness": "Oscuro",
+          "skill": null,
+          "attacks":[
+               { "name": "Disparo Psi", "damage": 20 },
+               { "name": "Hackeo Genoma" }
+          ],
+          "imgFile": "mewExRainbow.png"
+     },
+     {
+          "card_id": "A1a 084",
+          "name": "Aerodactyl ex",
+          "type": "Lucha",
+          "ps": 140,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 6,
+          "weakness": "Eléctrico",
+          "skill":  [
+               { "name": "Ley Primitiva", "description": "Tu rival no puede jugar ningún Pokémon de su mano para hacer evolucionar al Pokémon Activo." }
+          ],
+          "attacks":[
+               { "name": "Aterrizaje", "damage": 80 }
+               
+          ],
+          "imgFile": "aerodactylExRainbow.png"
+     },
+     {
+          "card_id": "A1a 085",
+          "name": "Celebi ex",
+          "type": "Planta",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 7,
+          "weakness": "Fuego",
+          "skill": null,
+          "attacks":[
+               { "name": "Floración Potente", "damage": 50 }
+               
+          ],
+          "imgFile": "celebiExPearl.png"
+     },
+     {
+          "card_id": "A1a 086",
+          "name": "Mew ex",
+          "type": "Psíquico",
+          "ps": 130,
+          "expansion_name": "La Isla Singular",
+          "packName": "laIslaSingular",
+          "rarity": 8,
+          "weakness": "Oscuro",
+          "skill": null,
+          "attacks":[
+               { "name": "Disparo Psi", "damage": 20 },
+               { "name": "Hackeo Genoma" }
+          ],
+          "imgFile": "mewExEr.png"
+     }
+]

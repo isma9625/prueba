@@ -1,0 +1,136 @@
+.widthCarta {
+    width: 700px;  /* Ajusta el tamaño según lo que necesites */
+}
+
+.widthCarta img {
+    max-width: 100%;  /* Asegura que la imagen no se salga del contenedor */
+    height: auto;  /* Mantiene la relación de aspecto original */
+}
+
+/* COLORS */
+.bgColorBlack {
+    background-color: #1B1B1B;
+    color: #FDFCFA;
+}
+
+.bgColorWhite {
+    background-color: #FDFCFA;
+    color: #1B1B1B;
+}
+
+.textColorBlack {
+    color: #1B1B1B;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
+}
+
+.textColorWhite {
+    color: #FDFCFA;
+    
+}
+
+.textColorBlue {
+    color: #3C59A5;
+}
+
+.bgColorBlue {
+    background-color: #3C59A5;
+    color: #1B1B1B;
+}
+
+.borderBlue {
+    border: 2px solid #3C59A5;
+}
+
+.textColorYellow {
+    color: #FFCC03;
+}
+
+.bgColorYellow {
+    background-color: #FFCC03;
+}
+
+.borderYellow {
+    border: 2px solid #FFCC03;
+}
+
+.textColorRed {
+    color: #CD0C2B;
+}
+
+.bgColorRed {
+    background-color: #CD0C2B;
+}
+
+/* ESPACIADOS */
+.padding {
+    padding: 3em 6em;
+}
+
+.custom-separation .list-group-item {
+    margin-right: 15px; 
+}
+
+.custom-separation .list-group-item:last-child {
+    margin-right: 0; 
+}
+
+.sombraBordes {
+    box-shadow: 0 0 1px #FFCC03;
+}
+
+.menuPequeño{
+    min-width: unset;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #FFCC03;
+    color: black !important; 
+    box-shadow: 0 0 4px #FFCC03;
+    transform: scale(1.02);
+    transition: all 0.2s ease-in-out;
+    z-index: 1;
+}
+
+.pack-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
+
+.pack-card {
+    border-radius: 10px;    
+    text-align: center;
+    width: 200px;
+}
+
+.pack-card img {
+    width: 100%;
+    height: auto;
+}
+
+button {
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
+}
+
+.row.justify-content-center {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.carta-img {
+    width: 100%;
+    max-width: 140px;
+    height: auto;
+}
+
+@media (min-width: 992px) {
+    .carta-img {
+        max-width: 150px; 
+    }
+
+    .col-lg-2-4 {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+}

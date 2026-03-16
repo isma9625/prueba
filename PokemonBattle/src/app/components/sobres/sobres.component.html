@@ -1,0 +1,101 @@
+<section class="d-flex justify-content-center align-items-center bgColorBlack min-vh-100">
+  <div class="container w-100">
+    @if(!mostrarCartasObtenidas && !mostrarCartasParaComprar) {  
+      <!-- Carrusel de sobres -->
+      <div id="sobresCarousel" class="carousel slide my-4" data-bs-interval="false">
+        <div class="carousel-inner">
+          @for (group of groupedPacks; track group) {
+            <div class="carousel-item {{ groupedPacks.indexOf(group) === 0 ? 'active' : '' }}">
+              <div class="row justify-content-center align-items-center">
+                @for (pack of group; track pack.packName) {
+                  <div class="pack-card col-12 col-sm-6 col-md-4 col-lg-3 mb-4 text-center textColorBlack">
+                    <img [src]="pack.imgPack" [alt]="pack.packName" class="img-fluid rounded pack-img mb-3" />
+                    <button class="btn btn-warning mb-2" (click)="abrirSobre(pack.packName)">Abrir sobre</button>
+                    <button class="btn btn-warning mb-2" (click)="verCartas(pack.packName)">Comprar cartas</button>
+                  </div>
+                }
+              </div>
+            </div>
+          }
+        </div>
+
+        <!-- Controles del carrusel -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#sobresCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+        </button>
+
+        <button class="carousel-control-next" type="button" data-bs-target="#sobresCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+      </div>
+    }
+    
+    @if (mensajeError) {
+      <div class="text-danger fw-semibold fs-4" style="text-align: center;">
+        {{ mensajeError }}
+      </div>
+    }
+    
+    <!-- Mostrar cartas obtenidas tras abrir un sobre -->
+    @if (mostrarCartasParaComprar) {
+      <div class="container px-4"> <!-- Espaciado lateral -->
+        <button class="btn btn-warning mt-5 mb-3" (click)="volver()">Volver</button>
+    
+        <h2 class="text-center mb-5">CARTAS OBTENIDAS</h2>
+    
+        <div class="row justify-content-center">
+          @for (carta of cartasSobre; track carta.card_id) {
+            <div class="col-4 col-md-2 d-flex justify-content-center mb-4">
+              <img [src]="carta.imgCard" [alt]="carta.name" class="img-fluid card-img-custom">
+            </div>
+          }
+        </div>
+      </div>
+    }
+
+    <!-- Mostrar cartas disponibles para comprar -->
+    @if (mostrarCartasObtenidas) {
+      <button class="btn btn-warning mt-5 mb-3" (click)="volver()">Volver</button>
+      
+      <div class="text-center mb-5">
+        Puntos del sobre: {{ packPointsDisplay }}
+      </div>
+
+      <h2 class="text-center mb-5">CARTAS DISPONIBLES</h2>
+      
+      <div class="row justify-content-center">
+        @for (carta of cartasSobre; track carta.card_id) {
+          <div class="col-4 col-md-3 col-lg-2-4 mb-4 d-flex justify-content-center">
+            <div class="pack-card text-center">
+              <img [src]="carta.imgCard" [alt]="carta.name" class="img-fluid carta-img">
+              <div class="mt-2">
+                <strong>{{ carta.name }}</strong><br>
+                <span>{{ carta.precio }} puntos</span><br>
+                @if (packPoints >= carta.precio) {
+                  <button 
+                    class="btn btn-sm mt-1 btn-success"
+                    (click)="comprarCarta(carta.card_id)">
+                    Comprar
+                  </button>
+                } @else {
+                  <button 
+                    class="btn btn-sm mt-1 btn-danger"
+                    disabled
+                    (click)="comprarCarta(carta.card_id)">
+                    Comprar
+                  </button>
+                }
+
+                @if (mensajesCompra[carta.card_id]) {
+                  <div class="text-success mt-2">
+                    {{ mensajesCompra[carta.card_id] }}
+                  </div>
+                }
+              </div>
+            </div>
+          </div>
+        }
+      </div>
+    }
+  </div>
+</section>

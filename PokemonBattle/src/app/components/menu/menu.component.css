@@ -1,0 +1,131 @@
+/* COLORS */
+.bgColorBlack {
+     background-color: #1B1B1B;
+     color: #FDFCFA;
+}
+
+.bgColorWhite {
+     background-color: #FDFCFA;
+     color: #1B1B1B;
+}
+
+.textColorBlack {
+     color: #1B1B1B;
+     text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
+}
+
+.textColorWhite {
+     color: #FDFCFA;
+     text-shadow: 3px 3px 9px rgba(0, 0, 0, 1);
+}
+
+.textColorBlue {
+     color: #3C59A5;
+}
+
+.bgColorBlue {
+     background-color: #3C59A5;
+     color: #1B1B1B;
+}
+
+.borderBlue {
+     border: 2px solid #3C59A5;
+}
+
+.textColorYellow {
+     color: #FFCC03;
+}
+
+.bgColorYellow {
+     background-color: #FFCC03;
+}
+
+.borderYellow {
+     border: 2px solid #FFCC03;
+}
+
+.borderYellowBottom {
+     border: none; 
+     border-bottom: 3px solid #FFCC03;
+}
+.borderYellowRight {
+     border: none; 
+     border-right: 3px solid #FFCC03;
+}
+
+.textColorRed {
+     color: #CD0C2B;
+}
+
+.bgColorRed {
+     background-color: #CD0C2B;
+}
+
+.transition-all {
+     transition: all 0.3s ease;
+}
+
+.sidebar-expanded {
+     width: 300px;
+}
+
+.sidebar-collapsed {
+     width: 100px;
+     overflow-x: hidden;
+}
+
+.sidebar-collapsed .nav-link span {
+     display: none;
+}
+
+.cursor-pointer {
+     cursor: pointer;
+}
+
+.imgWidth{
+     width: 64px;
+}
+
+.nav-link,
+.nav-link span,
+.menu-superior a {
+     color: #FDFCFA !important;
+     text-decoration: none !important;
+}
+
+@media (max-width: 576px) {
+     .sidebar-collapsed {
+          width: 75px;
+     }
+
+     .sidebar-expanded {
+          position: absolute;
+          top: 70px;
+          left: 0;
+          width: 100vw;
+          height: calc(100vh - 70px);
+          z-index: 1; 
+     }
+
+     .sidebar-expanded .nav-link span {
+          display: inline; 
+     }
+
+     .imgWidth{
+          width: 42px;
+     }
+}
+
+.sidebar-icon {
+     width: 48px; 
+}
+
+@media (max-width: 767.98px) {
+     .sidebar-icon {
+          width: 34px !important; /* fuerza el tamaño en xs y sm */
+     }
+}
+
+.bgColorBlack.borderYellowRight.d-flex.flex-column.transition-all {  
+     z-index: 10;
+}

@@ -1,0 +1,23 @@
+import { Injectable } from '@angular/core';
+import {
+  HttpRequest,
+  HttpHandler,
+  HttpEvent,
+  HttpInterceptor
+} from '@angular/common/http';
+import { Observable } from 'rxjs';
+
+@Injectable()
+export class AuthInterceptor implements HttpInterceptor {
+  
+  constructor() {}
+
+  intercept(request: HttpRequest<unknown>, next: HttpHandler): Observable<HttpEvent<unknown>> {
+    // Agregar el encabezado de withCredentials para mantener la sesión entre solicitudes
+    const authReq = request.clone({
+      withCredentials: true
+    });
+    
+    return next.handle(authReq);
+  }
+}

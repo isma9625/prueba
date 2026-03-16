@@ -1,0 +1,127 @@
+/* COLORS */
+.bgColorBlack {
+    background-color: #1B1B1B;
+    color: #FDFCFA;
+}
+
+.bgColorWhite {
+    background-color: #FDFCFA;
+    color: #1B1B1B;
+}
+
+.textColorBlack {
+    color: #1B1B1B;
+}
+
+.textColorWhite {
+    color: #FDFCFA;
+}
+
+.textColorBlue {
+    color: #3C59A5;
+}
+
+.bgColorBlue {
+    background-color: #3C59A5;
+}
+
+.textColorYellow {
+    color: #FFCC03;
+}
+
+.bgColorYellow {
+    background-color: #FFCC03;
+}
+
+.textColorRed {
+    color: #CD0C2B;
+}
+
+.bgColorRed {
+    background-color: #CD0C2B;
+}
+
+
+/* ESPACIADOS */
+.paddingTop {
+    padding-top: 8rem;
+}
+
+.paddingBottom {
+    padding-bottom: 18rem;
+}
+
+.accordion-button{
+    font-size: 1.5rem;  /* Texto más grande */
+    font-weight: bold;  /* Texto en negrita */
+}
+
+/* Cambiar el color del texto de los botones cuando el acordeón se abre */
+.accordion-button:not(.collapsed) {
+    font-size: 1.5rem;  /* Texto más grande */
+    font-weight: bold;  /* Texto en negrita */
+}
+
+
+#accordion1 .accordion-button {
+    background-color: #3C59A5; /* Fondo predeterminado de los botones del acordeón */
+    color: #FDFCFA;
+}
+
+#accordion1 .accordion-button:not(.collapsed) {
+    background-color:#3C59A5 !important;  
+    color: #ffc107;
+}
+
+#accordion1 .accordion-body {
+    background-color: #3C59A5;
+    color: #FDFCFA;
+}
+
+
+#accordion2 .accordion-button {
+    background-color: #1B1B1B; /* Fondo predeterminado de los botones del acordeón */
+    color: #FDFCFA;
+}
+
+#accordion2 .accordion-button:not(.collapsed) {
+    background-color:#1B1B1B !important;  
+    color: #CD0C2B;
+}
+
+#accordion2 .accordion-body {
+    background-color: #1B1B1B;
+    color: #FDFCFA;
+}
+
+
+#accordion3 .accordion-button {
+    background-color: #3C59A5; /* Fondo predeterminado de los botones del acordeón */
+    color: #FDFCFA;
+}
+
+#accordion3 .accordion-button:not(.collapsed) {
+    background-color:#3C59A5 !important;  
+    color: #ffc107;
+}
+
+#accordion3 .accordion-body {
+    background-color: #3C59A5;
+    color: #FDFCFA;
+}
+
+.accordion-button:focus,
+.accordion-button:active,
+.accordion-button:not(.collapsed) {
+    background-color: transparent ;
+    box-shadow: none !important;
+}
+
+.homeImg{
+    object-fit: cover; 
+    z-index: -1;
+}
+
+.accordion-item {
+    background-color: transparent;
+}

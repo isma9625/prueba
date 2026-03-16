@@ -1,0 +1,140 @@
+.widthCarta {
+    width: 220px;  /* Ajusta el tamaño según lo que necesites */
+}
+
+.widthCarta img {
+    max-width: 100%;  /* Asegura que la imagen no se salga del contenedor */
+    height: auto;  /* Mantiene la relación de aspecto original */
+}
+
+.tamañoTitulo{
+    font-size: 82px;
+}
+
+/* COLORS */
+.bgColorBlack {
+    background-color: #1B1B1B;
+    color: #FDFCFA;
+}
+
+.bgColorWhite {
+    background-color: #FDFCFA;
+    color: #1B1B1B;
+}
+
+.textColorBlack {
+    color: #1B1B1B;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
+}
+
+.textColorWhite {
+    color: #FDFCFA;
+    
+}
+
+.textColorBlue {
+    color: #3C59A5;
+}
+
+.bgColorBlue {
+    background-color: #3C59A5;
+    color: #1B1B1B;
+}
+
+.borderBlue {
+    border: 2px solid #3C59A5;
+}
+
+.textColorYellow {
+    color: #FFCC03;
+}
+
+.bgColorYellow {
+    background-color: #FFCC03;
+}
+
+.borderYellow {
+    border: 2px solid #FFCC03;
+}
+
+.textColorRed {
+    color: #CD0C2B;
+}
+
+.bgColorRed {
+    background-color: #CD0C2B;
+}
+
+/* ESPACIADOS */
+.padding {
+    padding: 3em 6em;
+}
+
+.custom-separation .list-group-item {
+    margin-right: 15px; 
+}
+
+.custom-separation .list-group-item:last-child {
+    margin-right: 0; 
+}
+
+/* ESTILOS BUSCADOR */
+.search-container {
+    position: relative;
+    width: 100%; 
+    max-width: 900px; 
+    margin: 0 auto; 
+}
+
+.search-input {
+    width: 100%;
+    height: 50px;
+    border-radius: 30px;
+    padding-left: 35px;
+    border: 2px solid #FFCC03;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #1B1B1B;
+    color: #FDFCFA;
+}
+
+.search-input::placeholder {
+    color: #FDFCFA; 
+    opacity: 1; 
+}
+
+.search-icon {
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    transform: translateY(-50%);
+    color: #FFCC03;
+}
+
+.sombraBordes {
+    box-shadow: 0 0 1px #FFCC03;
+}
+
+.menuPequeño{
+    min-width: auto !important; 
+    width: fit-content;          
+    
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #FFCC03;
+    color: black !important; 
+    box-shadow: 0 0 4px #FFCC03;
+    transform: scale(1.02);
+    transition: all 0.2s ease-in-out;
+    z-index: 1;
+}
+
+
+@media (min-width: 992px) {
+    .col-lg-2-4 {
+        width: 20%;
+        flex: 0 0 auto;
+    }
+}
+
+

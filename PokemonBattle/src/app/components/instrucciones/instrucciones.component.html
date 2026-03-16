@@ -1,0 +1,204 @@
+<div class="container-fluid p-0 position-relative d-flex align-items-center justify-content-center" style="min-height: 50vh; overflow: hidden;">
+    <!-- Imagen de fondo -->
+    <img src="./img/fondoAprendeJugar.PNG" alt="Fondo" class="w-100 h-100 position-absolute top-0 start-0 homeImg">
+    
+    <div class="container-lg">
+        <div class="row d-flex align-items-center h-100 px-5">
+            <!-- Texto a la izquierda -->
+            <div class="col-md-6 textColorWhite">
+                <h2 class="fw-bold">¿Quieres aprender a <br> jugar a Pokemon Battle?</h2>
+                <p class="fs-4">Aprende con nuestra guía de manera rápida y fácil.</p>
+            </div>
+
+            <!-- Imagen nueva a la derecha -->
+            <div class="col-md-6 text-center">
+                <img src="./img/aprendeJugar.png" alt="imagen instrucciones" class="img-fluid w-75"> 
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="paddingTop paddingBottom bgColorBlue position-relative">
+    <div class="row align-items-center gap-5 gap-md-0 ">
+        <h1 class="col-md-12 d-flex justify-content-center text-center text-md-start mb-0 mb-md-5  px-3  text-white">Partes de una carta que debes saber</h1>
+        <div class="col-md-6 d-flex justify-content-center">
+            <div class="accordion w-75 mx-auto" id="accordion1">
+                <div class="accordion-item  border-0 border-bottom border-2">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"  data-bs-target="#collapseUno1" aria-expanded="true" aria-controls="collapseOne1">
+                            Nombre
+                        </button>
+                    </h2>
+                    <div id="collapseUno1" class="accordion-collapse collapse"  data-bs-parent="#accordion1">
+                        <div class="accordion-body">
+                            Indica el nombre del Pokémon y la generacion a la que pertenece. 
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item border-0 border-bottom border-2">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDos1" aria-expanded="false" aria-controls="collapseTwo1">
+                            Tipo
+                        </button>
+                    </h2>
+                    <div id="collapseDos1" class="accordion-collapse collapse"  data-bs-parent="#accordion1">
+                        <div class="accordion-body">
+                            En la esquina superior derecha nos muestra el tipo del Pokémon. Te en cuenta que existen los siguientes tipos: Planta, Fuego, Agua, Eléctrico, Psíquico, Lucha, Oscuro, Metálico, Dragón e Incoloro.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item border-0 ">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTres1" aria-expanded="false" aria-controls="collapseTwo1">
+                            Ataque
+                        </button>
+                    </h2>
+                    <div id="collapseTres1" class="accordion-collapse collapse"  data-bs-parent="#accordion1">
+                        <div class="accordion-body">
+                            Debajo de la imágen podremos ver el nombre del ataque y el daño que inflinge representado en un número. Además hay una breve descripcción de los efectos de ese ataque.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Imagen -->
+        <div class="col-md-6 text-center">
+            <img src="./img/imagen carta.png" alt="" class="img-fluid w-50 ">
+        </div>
+    </div>
+
+    <img src="./img/transicionBuena.svg" alt="Decoración" class="position-absolute bottom-0 start-0">
+</section>
+
+
+
+<section class="paddingTop paddingBottom bgColorBlack position-relative">
+    <div class="row align-items-center gap-5 gap-md-0">
+        <h1 class="col-md-12 d-flex justify-content-center mb-0 mb-md-5 px-3 text-white">EN LA BATALLA </h1>
+        <!-- Imagen -->
+        <div class="col-md-6 text-center">
+            <img src="./img/wireframeBatallas.png" alt="" class="img-fluid w-75">
+        </div>    
+
+        <div class="col-md-6 d-flex justify-content-center">
+            <div class="accordion w-75 mx-auto" id="accordion2">
+
+                <div class="accordion-item border-0 border-bottom border-2">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseUno2" aria-expanded="true" aria-controls="collapseOne2">
+                            Zona de combate
+                        </button>
+                    </h2>
+                    <div id="collapseUno2" class="accordion-collapse collapse "  data-bs-parent="#accordion2">
+                        <div class="accordion-body">
+                        En esta zona tendras a tu izquierda la carta Pokémon que esta peleando en ese momento y en la derecha la de la IA. 
+                        Cuando una carta pierda se cambiará por la carta siguiente en la batalla. El primer jugador que se quede sin cartas en la baraja habrá perdido.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="accordion-item border-0 border-bottom border-2">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDos2" aria-expanded="false" aria-controls="collapseTwo2">
+                            Zona de ataques
+                        </button>
+                    </h2>
+                    <div id="collapseDos2" class="accordion-collapse collapse" data-bs-parent="#accordion2">
+                        <div class="accordion-body">
+                            Los diferentes ataques que tengas se verán entre los 4 huecos donde verás el nombre de ataque y el daño que hace. Solo podrás usar un ataque por turno
+                            y tendrás disponible cada uno dependiendo de la energía que tengas en ese momento y se necesite para el ataque.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="accordion-item border-0">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTres2" aria-expanded="false" aria-controls="collapseTwo1">
+                            Estratégia y Consideraciones Importantes
+                        </button>
+                    </h2>
+                    <div id="collapseTres2" class="accordion-collapse collapse" data-bs-parent="#accordion2">
+                        <div class="accordion-body">
+                            Al empezar la batalla podrás elegir el tipo de dificultad. 
+                            !Ten cuidado! Cuánta más dificultad, la IA sera más inteligente y tendrás más probabilidad de perder, pero si ganas, obtendrás más puntos.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </div>
+</section>
+
+<section class=" paddingBottom bgColorBlue">
+    <!-- Contenedor para SVG superpuesto -->
+    <div>
+        <img src="./img/transicion2buena.svg" alt="Decoración" class="w-100 d-block">
+    </div>
+
+    <h1 class="paddingTop col-md-12  d-flex justify-content-center mb-5 px-3 text-white">CREAR BARAJAS</h1>
+    <div class="row align-items-center gap-5 gap-md-0">
+        <div class="col-md-6 d-flex justify-content-center">
+            <div class="accordion w-75 mx-auto" id="accordion3">
+                
+                <div class="accordion-item border-0 border-bottom border-2">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseUno3" aria-expanded="true" aria-controls="collapseOne3">
+                            Zona de edición
+                        </button>
+                    </h2>
+                    <div id="collapseUno3" class="accordion-collapse collapse " data-bs-parent="#accordion3">
+                        <div class="accordion-body">
+                            En la zona de edición podrás crear, modificar y eliminar tus barajas. 
+                            Estas barajas las podrás usar en las batallas.
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="accordion-item border-0 border-bottom border-2">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDos3" aria-expanded="false" aria-controls="collapseDos3">
+                            Límite de cartas
+                        </button>
+                    </h2>
+                    <div id="collapseDos3" class="accordion-collapse collapse" data-bs-parent="#accordion3">
+                        <div class="accordion-body">
+                            El máximo de cartas que contendra una baraja es de 10. Así que elige bien que cartas añadir.
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="accordion-item border-0 border-bottom border-2">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTres3" aria-expanded="false" aria-controls="collapseTres3">
+                            Cartas repetidas
+                        </button>
+                    </h2>
+                    <div id="collapseTres3" class="accordion-collapse collapse" data-bs-parent="#accordion3">
+                        <div class="accordion-body">
+                            En una misma baraja solo podrás poner la misma carta dos veces en caso de que la tengas repetida.
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="accordion-item border-0 ">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCuatro3" aria-expanded="false" aria-controls="collapseCuatro3">
+                            Consideraciones Estratégicas
+                        </button>
+                    </h2>
+                    <div id="collapseCuatro3" class="accordion-collapse collapse" data-bs-parent="#accordion3">
+                        <div class="accordion-body">
+                            Es mejor tener una variedad de tipos de Pokémon, tanto ofensivos como defensivos o, si lo prefieres, puedes crear una baraja de un solo tipo de Pokémon; Planta, Fuego, Agua... 
+                            Experimenta con diferentes combinaciones para saber que es la baraja perfecta para tus batallas.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>  
+        <!-- Imagen -->
+        <div class="col-md-6 text-center">
+            <img src="./img/home1.2.png" alt="" class="img-fluid w-75">
+        </div>
+    </div>
+</section>

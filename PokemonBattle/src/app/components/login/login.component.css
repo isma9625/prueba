@@ -1,0 +1,106 @@
+/* COLORS */
+.bgColorBlack {
+    background-color: #1B1B1B;
+    color: #FDFCFA;
+}
+
+.bgColorWhite {
+    background-color: #FDFCFA;
+    color: #1B1B1B;
+}
+
+.textColorBlack {
+    color: #1B1B1B;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
+}
+
+.textColorWhite {
+    color: #FDFCFA;
+    text-shadow: 3px 3px 9px rgba(0, 0, 0, 1);
+}
+
+.textColorBlue {
+    color: #3C59A5;
+}
+
+.bgColorBlue {
+    background-color: #3C59A5;
+    color: #1B1B1B;
+}
+
+.borderBlue {
+    border: 2px solid #3C59A5;
+}
+
+.textColorYellow {
+    color: #FFCC03;
+}
+
+.bgColorYellow {
+    background-color: #FFCC03;
+}
+
+.borderYellow {
+    border: 2px solid #FFCC03;
+}
+
+.textColorRed {
+    color: #CD0C2B;
+}
+
+.bgColorRed {
+    background-color: #CD0C2B;
+}
+
+
+
+.bgPokeballImg {
+    background-image: url(/img/bgPokeball.jpg);
+    background-repeat: repeat;
+    background-size: 450px auto; 
+    background-attachment: fixed;
+}
+
+
+.fondo-azul {
+    background-color: #3C59A5;
+    min-height: 600px;
+    position: relative;
+    z-index: 0;
+}
+
+.fondo-negro-diagonal {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 55%;
+    background-color: black;
+    clip-path: polygon(30% 0, 100% 0, 100% 100%, 0% 100%);
+    z-index: 1;
+}
+
+.card-body {
+    position: relative;
+    z-index: 2;
+}
+
+
+.btnScale {
+    transition: transform 0.3s ease;
+}
+
+.btnScale:hover {
+    transform: scale(1.05);
+}
+
+.fondo-negro-diagonal {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 55%;
+    background-color: black;
+    clip-path: polygon(30% 0, 100% 0, 100% 100%, 0% 100%);
+    z-index: 1;
+}
